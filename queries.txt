@@ -1,0 +1,20 @@
+Q1	How does gradient descent work in machine learning?
+Q2	Why does overfitting occur in machine learning models?
+Q3	How does a random forest algorithm make predictions?
+Q4	What is the difference between supervised and unsupervised learning?
+Q5	How does reinforcement learning work?
+Q6	How does the PageRank algorithm rank web pages?
+Q7	What is the intuition behind principal component analysis?
+Q8	How does a neural network learn through backpropagation?
+Q9	Why does the central limit theorem hold?
+Q10	What is the difference between correlation and causation?
+Q11	How do central banks control inflation through interest rates?
+Q12	How does compound interest lead to long-term wealth accumulation?
+Q13	Why do bond prices fall when interest rates rise?
+Q14	How does the stock market determine the price of a share?
+Q15	How does a lithium-ion battery store and release energy?
+Q16	Why does global warming cause sea levels to rise?
+Q17	How does the human immune system fight viral infections?
+Q18	Why do search engines sometimes return irrelevant results?
+Q19	How does the k-means clustering algorithm group similar data points?
+Q20	Why do exchange rates fluctuate between currencies?

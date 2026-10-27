@@ -1,0 +1,2394 @@
+{
+  "How does gradient descent work in machine learning?": [
+    {
+      "url": "https://medium.com/geekculture/mathematics-behind-gradient-descent-f2a49a0b714f",
+      "title": "Mathematics Behind Gradient Descent",
+      "snippet": "Gradient descent is a first-order, iterative optimization algorithm to find a local/global minima of a differentiable function.",
+      "link": "https://medium.com/geekculture/mathematics-behind-gradient-descent-f2a49a0b714f",
+      "ranks": {
+        "google": 1
+      }
+    },
+    {
+      "url": "https://geeksforgeeks.org/machine-learning/gradient-descent-algorithm-and-its-variants",
+      "title": "Gradient Descent Algorithm in Machine Learning - GeeksforGeeks",
+      "snippet": "Variants include Batch Gradient Descent, Stochastic Gradient Descent and Mini Batch Gradient Descent Formula: ... 1. Linear Regression Linear Regression is a supervised learning algorithm used to predict continuous numerical values by modeling the relationship between input variables and the output using a best-fit line.",
+      "link": "https://www.geeksforgeeks.org/machine-learning/gradient-descent-algorithm-and-its-variants/",
+      "ranks": {
+        "duckduckgo": 1
+      }
+    },
+    {
+      "url": "https://machinelearningmastery.com/gradient-descent-for-machine-learning",
+      "title": "Gradient Descent For Machine Learning",
+      "snippet": "Gradient descent is an optimization algorithm used to find the values of parameters (coefficients) of a function (f) that minimizes a cost ...",
+      "link": "https://www.machinelearningmastery.com/gradient-descent-for-machine-learning/",
+      "ranks": {
+        "google": 2
+      }
+    },
+    {
+      "url": "https://geeksforgeeks.org/machine-learning/what-is-gradient-descent",
+      "title": "What is Gradient Descent - GeeksforGeeks",
+      "snippet": "Here we choose a hyperparameter learning rate which is denoted by $\\gamma$. It helps in deciding the step size of the gradient. Step 4 Repeat steps 2 and 3 iteratively to get the best parameter for the defined model. Gradient Descent This animation shows iterative process of gradient descent as it traverses the 3D convex surface of cost function.",
+      "link": "https://www.geeksforgeeks.org/machine-learning/what-is-gradient-descent/",
+      "ranks": {
+        "duckduckgo": 2
+      }
+    },
+    {
+      "url": "https://youtube.com/watch?v=jwStsp8JUPU",
+      "title": "Gradient Descent - Simply Explained! ML for beginners with ...",
+      "snippet": "In this video, we will talk about Gradient Descent and how we can use it to update the weights and bias of our AI model.",
+      "link": "https://www.youtube.com/watch?v=jwStsp8JUPU",
+      "ranks": {
+        "google": 3
+      }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gradient_descent",
+      "title": "Gradient descent - Wikipedia",
+      "snippet": "Gradient descent is based on the observation that if the multi-variable function is defined and differentiable in a neighborhood of a point , then decreases fastest if one goes from in the direction of the negative gradient of at .",
+      "link": "https://en.wikipedia.org/wiki/Gradient_descent",
+      "ranks": {
+        "duckduckgo": 3
+      }
+    },
+    {
+      "url": "https://machinelearningmastery.com/gradient-descentthe-engine-of-machine-learning-optimization",
+      "title": "Gradient Descent:The Engine of Machine Learning ...",
+      "snippet": "At its core, it is an iterative optimization algorithm used to minimize a cost (or loss) function by strategically adjusting model parameters.",
+      "link": "https://machinelearningmastery.com/gradient-descentthe-engine-of-machine-learning-optimization/",
+      "ranks": {
+        "google": 4,
+        "duckduckgo": 7
+      }
+    },
+    {
+      "url": "https://ibm.com/think/topics/gradient-descent",
+      "title": "What is gradient descent? - IBM",
+      "snippet": "What is gradient descent? Gradient descent is an optimization algorithm which is commonly-used to train machine learning models and neural networks. It trains machine learning models by minimizing errors between predicted and actual results.",
+      "link": "https://www.ibm.com/think/topics/gradient-descent",
+      "ranks": {
+        "duckduckgo": 4
+      }
+    },
+    {
+      "url": "https://geeksforgeeks.org/machine-learning/gradient-descent-in-linear-regression",
+      "title": "Gradient Descent in Linear Regression",
+      "snippet": "Gradient Descent is an optimization algorithm used in linear regression to find the best-fit line by minimizing prediction error.",
+      "link": "https://www.geeksforgeeks.org/machine-learning/gradient-descent-in-linear-regression/",
+      "ranks": {
+        "google": 5
+      }
+    },
+    {
+      "url": "https://introml.mit.edu/notes/gradient_descent.html",
+      "title": "3 Gradient Descent - 6.390 - Intro to Machine Learning",
+      "snippet": "Below, we explicitly give gradient descent algorithms for one- and multidimensional objective functions (Section 3.1 and Section 3.2). We then illustrate the application of gradient descent to a loss function which is not merely mean squared loss (Section 3.3).",
+      "link": "https://introml.mit.edu/notes/gradient_descent.html",
+      "ranks": {
+        "duckduckgo": 5
+      }
+    },
+    {
+      "url": "https://snowflake.com/en/artificial-intelligence/machine-learning/model-training/gradient-descent",
+      "title": "Gradient Descent: How ML Models Learn",
+      "snippet": "Gradient descent is a method for improving a machine learning model by repeatedly estimating which parameter changes would lower its current error.",
+      "link": "https://www.snowflake.com/en/artificial-intelligence/machine-learning/model-training/gradient-descent/",
+      "ranks": {
+        "google": 6
+      }
+    },
+    {
+      "url": "https://analyticsvidhya.com/blog/2020/10/how-does-the-gradient-descent-algorithm-work-in-machine-learning",
+      "title": "Gradient Descent Algorithm: How Does it Work in Machine Learning?",
+      "snippet": "In this article, you will learn about gradient descent in machine learning, understand how gradient descent works, and explore the gradient descent algorithm's applications. Learning objectives: Gradient Descent Basics: A simple rundown on how gradient descent helps optimize machine learning models by minimizing the cost function.",
+      "link": "https://www.analyticsvidhya.com/blog/2020/10/how-does-the-gradient-descent-algorithm-work-in-machine-learning/",
+      "ranks": {
+        "duckduckgo": 6
+      }
+    },
+    {
+      "url": "https://cloudthat.com/resources/blog/the-power-of-gradient-descent-in-machine-learning",
+      "title": "The Power of Gradient Descent in Machine Learning",
+      "snippet": "Gradient descent is an iterative optimization algorithm in machine learning designed to minimize the cost function, facilitating more precise ...",
+      "link": "https://www.cloudthat.com/resources/blog/the-power-of-gradient-descent-in-machine-learning/",
+      "ranks": {
+        "google": 7
+      }
+    }
+  ],
+  "Why does overfitting occur in machine learning models?": [
+    {
+      "url": "https://ibm.com/think/topics/overfitting",
+      "title": "What is Overfitting? | IBM",
+      "snippet": "Overfitting occurs when an algorithm fits too closely to its training data, resulting in a model that can't make accurate predictions or ...",
+      "link": "https://www.ibm.com/think/topics/overfitting",
+      "ranks": {
+        "google": 1,
+        "duckduckgo": 3
+      }
+    },
+    {
+      "url": "https://geeksforgeeks.org/machine-learning/underfitting-and-overfitting-in-machine-learning",
+      "title": "Underfitting and Overfitting in ML",
+      "snippet": "Overfitting happens when the model learns too much from the training data, including noise and outliers. It performs very well on training data ...",
+      "link": "https://www.geeksforgeeks.org/machine-learning/underfitting-and-overfitting-in-machine-learning/",
+      "ranks": {
+        "google": 5,
+        "duckduckgo": 1
+      }
+    },
+    {
+      "url": "https://aws.amazon.com/what-is/overfitting",
+      "title": "Overfitting in Machine Learning Explained",
+      "snippet": "Overfitting occurs when the model can't generalize and instead fits too closely to the training dataset. Overfitting can happen for several reasons: The ...",
+      "link": "https://aws.amazon.com/what-is/overfitting/",
+      "ranks": {
+        "google": 2,
+        "duckduckgo": 5
+      }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Overfitting",
+      "title": "Overfitting - Wikipedia",
+      "snippet": "The term overfitting has been used in machine learning at least since 1980's [11] to describe models or procedures that violate Occam's razor, for example by including more adjustable parameters than are ultimately optimal, or by using a more complicated approach than is ultimately optimal.",
+      "link": "https://en.wikipedia.org/wiki/Overfitting",
+      "ranks": {
+        "duckduckgo": 2
+      }
+    },
+    {
+      "url": "https://reddit.com/r/datascience/comments/vs7chb/can_someone_please_explain_overfitting_to_me_as",
+      "title": "Can someone please explain \"overfitting\" to me as simply ...",
+      "snippet": "I have spent the past 24 hours making the perfect model only for someone to tell me that my model might be overfitted \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d I looked through Google ...",
+      "link": "https://www.reddit.com/r/datascience/comments/vs7chb/can_someone_please_explain_overfitting_to_me_as/",
+      "ranks": {
+        "google": 3
+      }
+    },
+    {
+      "url": "https://developers.google.com/machine-learning/crash-course/overfitting/overfitting",
+      "title": "Overfitting | Machine Learning",
+      "snippet": "Overfitting occurs when a model performs well on training data but poorly on new, unseen data. \u00b7 A model is considered to generalize well if it ...",
+      "link": "https://developers.google.com/machine-learning/crash-course/overfitting/overfitting",
+      "ranks": {
+        "google": 4,
+        "duckduckgo": 6
+      }
+    },
+    {
+      "url": "https://geeksforgeeks.org/machine-learning/model-complexity-overfitting-in-machine-learning",
+      "title": "Model Complexity & Overfitting in Machine Learning",
+      "snippet": "Model complexity leads to overfitting, which makes it harder to perform well on the unseen new data. In this article, we delve into the crucial challenges of model complexity and overfitting in machine learning.",
+      "link": "https://www.geeksforgeeks.org/machine-learning/model-complexity-overfitting-in-machine-learning/",
+      "ranks": {
+        "duckduckgo": 4
+      }
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8905023",
+      "title": "Machine learning models and over-fitting considerations - PMC",
+      "snippet": "Machine learning models may outperform traditional statistical regression algorithms for predicting clinical outcomes. Proper validation of building such models ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8905023/",
+      "ranks": {
+        "google": 6
+      }
+    },
+    {
+      "url": "https://towardsai.com/p/l/overfitting-causes-and-remedies",
+      "title": "Overfitting: Causes and Remedies",
+      "snippet": "Overfitting is not good for any machine learning model as the final aim of the machine is to predict new upcoming scenarios which nobody has ...",
+      "link": "https://towardsai.com/p/l/overfitting-causes-and-remedies",
+      "ranks": {
+        "google": 7
+      }
+    },
+    {
+      "url": "https://investopedia.com/terms/o/overfitting.asp",
+      "title": "Understanding Overfitting: Causes, Impacts, and Prevention",
+      "snippet": "It's significant in in financial analysis and machine learning. Overfitting the model generally takes the form of making an overly complex model to explain idiosyncrasies in the data under study.",
+      "link": "https://www.investopedia.com/terms/o/overfitting.asp",
+      "ranks": {
+        "duckduckgo": 7
+      }
+    }
+  ],
+  "How does a random forest algorithm make predictions?": [
+    {
+      "url": "https://geeksforgeeks.org/machine-learning/random-forest-algorithm-in-machine-learning",
+      "title": "Random Forest Algorithm in Machine Learning",
+      "snippet": "Random Forest is a machine learning algorithm that uses many decision trees to make better predictions. Each tree looks at different random ...",
+      "link": "https://www.geeksforgeeks.org/machine-learning/random-forest-algorithm-in-machine-learning/",
+      "ranks": {
+        "google": 1,
+        "duckduckgo": 1
+      }
+    },
+    {
+      "url": "https://epa.gov/streamflow-duration-assessment/random-forest-modeling",
+      "title": "Random Forest Modeling | US EPA",
+      "snippet": "Random forest is a machine learning model that works by utilizing many decision trees, collectively called a \u201cforest,\u201d to make a prediction.",
+      "link": "https://www.epa.gov/streamflow-duration-assessment/random-forest-modeling",
+      "ranks": {
+        "google": 2
+      }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Random_forest",
+      "title": "Random forest - Wikipedia",
+      "snippet": "Random forests or random decision forests is an ensemble learning method for classification, regression and other tasks that works by creating a multitude of decision trees during training. For classification tasks, the output of the random forest is the class selected by most trees. For regression tasks, the output is the average of the predictions of the trees. [1][2] Random forests correct ...",
+      "link": "https://en.wikipedia.org/wiki/Random_forest",
+      "ranks": {
+        "duckduckgo": 2
+      }
+    },
+    {
+      "url": "https://ibm.com/think/topics/random-forest",
+      "title": "What Is Random Forest? | IBM",
+      "snippet": "Random forest is a commonly-used machine learning algorithm that combines the output of multiple decision trees to reach a single result.",
+      "link": "https://www.ibm.com/think/topics/random-forest",
+      "ranks": {
+        "google": 3
+      }
+    },
+    {
+      "url": "https://geeksforgeeks.org/machine-learning/random-forest-regression-in-python",
+      "title": "Random Forest Regression in Python - GeeksforGeeks",
+      "snippet": "Random Forest is an ensemble learning method that combines multiple decision trees to produce more accurate and stable predictions. It can be used for both classification and regression tasks, where regression predictions are obtained by averaging the outputs of several trees.",
+      "link": "https://www.geeksforgeeks.org/machine-learning/random-forest-regression-in-python/",
+      "ranks": {
+        "duckduckgo": 3
+      }
+    },
+    {
+      "url": "https://builtin.com/data-science/random-forest-algorithm",
+      "title": "Random Forest: A Complete Guide for Machine Learning",
+      "snippet": "Random forest is a machine learning algorithm that creates an ensemble of multiple decision trees to reach a singular, more accurate prediction or result. In ...",
+      "link": "https://builtin.com/data-science/random-forest-algorithm",
+      "ranks": {
+        "google": 4
+      }
+    },
+    {
+      "url": "https://towardsdatascience.com/random-forest-explained-a-visual-guide-with-code-examples-9f736a6e1b3c",
+      "title": "Random Forest, Explained: A Visual Guide with Code Examples",
+      "snippet": "A Random Forest Classifier makes predictions by combining results from 100 different decision trees, each analyzing features like temperature and outlook conditions. The final prediction comes from the most common answer among all trees.",
+      "link": "https://towardsdatascience.com/random-forest-explained-a-visual-guide-with-code-examples-9f736a6e1b3c/",
+      "ranks": {
+        "duckduckgo": 4
+      }
+    },
+    {
+      "url": "https://medium.com/data-science/random-forest-explained-a-visual-guide-with-code-examples-9f736a6e1b3c",
+      "title": "Random Forest | TDS Archive",
+      "snippet": "A Random Forest Classifier makes predictions by combining results from 100 different decision trees, each analyzing features like temperature ...",
+      "link": "https://medium.com/data-science/random-forest-explained-a-visual-guide-with-code-examples-9f736a6e1b3c",
+      "ranks": {
+        "google": 5
+      }
+    },
+    {
+      "url": "https://ml-digest.com/random-forest",
+      "title": "The Complete Guide to Random Forest: Building, Tuning, and Interpreting ...",
+      "snippet": "Random forest is a powerful ensemble learning algorithm used for both classification and regression tasks. It operates by constructing multiple decision trees during training and outputting the mode of the classes (classification) or mean prediction (regression) of the individual trees.",
+      "link": "https://ml-digest.com/random-forest/",
+      "ranks": {
+        "duckduckgo": 5
+      }
+    },
+    {
+      "url": "https://researchgate.net/publication/382419308_Random_Forest_Algorithm_Overview",
+      "title": "(PDF) Random Forest Algorithm Overview",
+      "snippet": "Random Forest is an ensemble machine-learning method that constructs multiple decision trees and aggregates predictions to improve ...",
+      "link": "https://www.researchgate.net/publication/382419308_Random_Forest_Algorithm_Overview",
+      "ranks": {
+        "google": 6
+      }
+    },
+    {
+      "url": "https://datasciencedojo.com/blog/random-forest-algorithm",
+      "title": "Understanding random forest algorithm: A comprehensive guide",
+      "snippet": "Random Forest algorithm: Learn how this ensemble method boosts prediction accuracy by combining multiple decision trees for robust classification and regression.",
+      "link": "https://datasciencedojo.com/blog/random-forest-algorithm/",
+      "ranks": {
+        "duckduckgo": 6
+      }
+    },
+    {
+      "url": "https://ioaglobal.org/blog/random-forests-explained-simply-prediction-real-world-use",
+      "title": "Random Forests Explained Simply: From Prediction to ...",
+      "snippet": "A random forest is a type of machine learning model that makes predictions by combining the results of many smaller models, which are called ...",
+      "link": "https://ioaglobal.org/blog/random-forests-explained-simply-prediction-real-world-use/",
+      "ranks": {
+        "google": 7
+      }
+    },
+    {
+      "url": "https://globaltechcouncil.org/machine-learning/random-forest-ensemble-learning-better-predictions",
+      "title": "Random Forest Explained for Better Predictions",
+      "snippet": "Random Forest is one of the first algorithms you should try when you have structured data and need dependable predictions without building a deep learning system. It trains many decision trees, adds controlled randomness, then combines their answers. Simple idea. Strong results. For developers and data professionals, Random Forest stays useful because it works well for classification and ...",
+      "link": "https://www.globaltechcouncil.org/machine-learning/random-forest-ensemble-learning-better-predictions/",
+      "ranks": {
+        "duckduckgo": 7
+      }
+    }
+  ],
+  "What is the difference between supervised and unsupervised learning?": [
+    {
+      "url": "https://stackoverflow.com/questions/1832076/what-is-the-difference-between-supervised-learning-and-unsupervised-learning",
+      "title": "What is the difference between supervised learning and ...",
+      "snippet": "Closed. This question needs to be more focused. It is not currently accepting answers. Want to improve this question? Guide the asker to update ...",
+      "link": "https://stackoverflow.com/questions/1832076/what-is-the-difference-between-supervised-learning-and-unsupervised-learning",
+      "ranks": {
+        "google": 1
+      }
+    },
+    {
+      "url": "https://geeksforgeeks.org/machine-learning/difference-between-supervised-and-unsupervised-learning",
+      "title": "Difference between Supervised and Unsupervised Learning",
+      "snippet": "The difference between supervised and unsupervised learning lies in how they use data and their goals. Supervised learning relies on labeled datasets, where each input is paired with a corresponding output label.",
+      "link": "https://www.geeksforgeeks.org/machine-learning/difference-between-supervised-and-unsupervised-learning/",
+      "ranks": {
+        "duckduckgo": 1
+      }
+    },
+    {
+      "url": "https://opit.com/magazine/supervised-vs-unsupervised-learning",
+      "title": "Supervised vs. Unsupervised Learning: Algorithms, ...",
+      "snippet": "Supervised learning uses labeled datasets, while unsupervised learning uses unlabeled, \u201craw\u201d data. In other words, the former requires training,",
+      "link": "https://www.opit.com/magazine/supervised-vs-unsupervised-learning/",
+      "ranks": {
+        "google": 2
+      }
+    },
+    {
+      "url": "https://ibm.com/think/topics/supervised-vs-unsupervised-learning",
+      "title": "Supervised versus unsupervised learning: What's the difference?",
+      "snippet": "In this article, we'll explore the basics of two data science approaches: supervised and unsupervised. Find out which approach is right for your situation. The world is getting \"smarter\" every day, and to keep up with consumer expectations, companies are increasingly using machine learning algorithms to make things easier.",
+      "link": "https://www.ibm.com/think/topics/supervised-vs-unsupervised-learning",
+      "ranks": {
+        "duckduckgo": 2
+      }
+    },
+    {
+      "url": "https://eleks.com/blog/supervised-unsupervised-learning",
+      "title": "Supervised vs Unsupervised Learning: ML Fundamentals",
+      "snippet": "The main difference lies in the presence of labelled data. Supervised learning uses labelled input and output data to train models for tasks ...",
+      "link": "https://eleks.com/blog/supervised-unsupervised-learning/",
+      "ranks": {
+        "google": 3
+      }
+    },
+    {
+      "url": "https://geeksforgeeks.org/machine-learning/supervised-unsupervised-learning",
+      "title": "Supervised and Unsupervised learning - GeeksforGeeks",
+      "snippet": "Supervised and unsupervised learning are two main types of machine learning. In supervised learning, the model is trained with labeled data where each input has a corresponding output. On the other hand, unsupervised learning involves training the model with unlabeled data which helps to uncover patterns, structures or relationships within the data without predefined outputs. In this article ...",
+      "link": "https://www.geeksforgeeks.org/machine-learning/supervised-unsupervised-learning/",
+      "ranks": {
+        "duckduckgo": 3
+      }
+    },
+    {
+      "url": "https://youtube.com/watch?v=Ui30XJEbi0Y",
+      "title": "What's the Difference in Machine Learning?",
+      "snippet": "What's the difference between supervised and unsupervised learning in machine learning? In this video, we'll break down these two ...",
+      "link": "https://www.youtube.com/watch?v=Ui30XJEbi0Y",
+      "ranks": {
+        "google": 4
+      }
+    },
+    {
+      "url": "https://online.hbs.edu/blog/post/supervised-vs-unsupervised-learning",
+      "title": "Supervised vs. Unsupervised Learning in AI: Key Differences",
+      "snippet": "Artificial intelligence can be powered by supervised or unsupervised machine learning. Learn the key differences and when to use each.",
+      "link": "https://online.hbs.edu/blog/post/supervised-vs-unsupervised-learning",
+      "ranks": {
+        "duckduckgo": 4
+      }
+    },
+    {
+      "url": "https://coursera.org/articles/supervised-vs-unsupervised-learning",
+      "title": "Supervised vs. Unsupervised Learning: Pros, Cons, and ...",
+      "snippet": "Unsupervised learning uses unlabeled data, while supervised learning features labeled data. Supervised learning is the go-to method in ...",
+      "link": "https://www.coursera.org/articles/supervised-vs-unsupervised-learning",
+      "ranks": {
+        "google": 5,
+        "duckduckgo": 5
+      }
+    },
+    {
+      "url": "https://bdtechtalks.com/2020/02/10/unsupervised-learning-vs-supervised-learning",
+      "title": "What is the difference between supervised and ...",
+      "snippet": "Unlike supervised learning, unsupervised machine learning doesn't require labeled data. It peruses through the training examples and divides ...",
+      "link": "https://bdtechtalks.com/2020/02/10/unsupervised-learning-vs-supervised-learning/",
+      "ranks": {
+        "google": 6
+      }
+    },
+    {
+      "url": "https://databricks.com/blog/supervised-vs-unsupervised-learning",
+      "title": "Supervised vs. Unsupervised Learning: Understanding the differences and ...",
+      "snippet": "Understand the key differences between supervised and unsupervised learning. Learn when to use each machine learning approach, explore real-world applications, and discover which method fits your data science goals.",
+      "link": "https://www.databricks.com/blog/supervised-vs-unsupervised-learning",
+      "ranks": {
+        "duckduckgo": 6
+      }
+    },
+    {
+      "url": "https://medium.com/@arch.mo2men/supervised-learning-vs-unsupervised-learning-d8fd532429cd",
+      "title": "Supervised learning Vs unsupervised learning",
+      "snippet": "In summary, supervised learning is more constrained but typically results in better performance, while unsupervised learning is more challenging ...",
+      "link": "https://medium.com/@arch.mo2men/supervised-learning-vs-unsupervised-learning-d8fd532429cd",
+      "ranks": {
+        "google": 7
+      }
+    },
+    {
+      "url": "https://21kschool.com/in/blog/difference-between-supervised-and-unsupervised-learning",
+      "title": "Top 12 Difference Between Supervised and Unsupervised Learning",
+      "snippet": "Understand the difference between supervised and unsupervised learning. Learn how to solve data-driven problems efficiently and effectively.",
+      "link": "https://www.21kschool.com/in/blog/difference-between-supervised-and-unsupervised-learning/",
+      "ranks": {
+        "duckduckgo": 7
+      }
+    }
+  ],
+  "How does reinforcement learning work?": [
+    {
+      "url": "https://aws.amazon.com/what-is/reinforcement-learning",
+      "title": "What is Reinforcement Learning?",
+      "snippet": "Reinforcement learning (RL) is a machine learning (ML) technique that trains models to make decisions to achieve the most optimal results.",
+      "link": "https://aws.amazon.com/what-is/reinforcement-learning/",
+      "ranks": {
+        "google": 1
+      }
+    },
+    {
+      "url": "https://geeksforgeeks.org/machine-learning/what-is-reinforcement-learning",
+      "title": "Reinforcement Learning",
+      "snippet": "Reinforcement Learning revolves around the idea that an agent (the learner or decision-maker) interacts with an environment to achieve a goal.",
+      "link": "https://www.geeksforgeeks.org/machine-learning/what-is-reinforcement-learning/",
+      "ranks": {
+        "google": 5,
+        "duckduckgo": 1
+      }
+    },
+    {
+      "url": "https://spinningup.openai.com/en/latest/spinningup/rl_intro.html",
+      "title": "Part 1: Key Concepts in RL \u2014 Spinning Up documentation",
+      "snippet": "In a nutshell, RL is the study of agents and how they learn by trial and error. It formalizes the idea that rewarding or punishing an agent for its behavior ...",
+      "link": "https://spinningup.openai.com/en/latest/spinningup/rl_intro.html",
+      "ranks": {
+        "google": 2
+      }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Reinforcement_learning",
+      "title": "Reinforcement learning - Wikipedia",
+      "snippet": "Reinforcement learning The typical framing of a reinforcement learning (RL) scenario: an agent takes actions in an environment, which is interpreted into a reward and a state representation, which are fed back to the agent.",
+      "link": "https://en.wikipedia.org/wiki/Reinforcement_learning",
+      "ranks": {
+        "duckduckgo": 2
+      }
+    },
+    {
+      "url": "https://ibm.com/think/topics/reinforcement-learning",
+      "title": "What is reinforcement learning?",
+      "snippet": "In reinforcement learning, autonomous agents learn to perform a task by trial and error in the absence of any guidance from a human user.",
+      "link": "https://www.ibm.com/think/topics/reinforcement-learning",
+      "ranks": {
+        "google": 3,
+        "duckduckgo": 4
+      }
+    },
+    {
+      "url": "https://educative.io/blog/how-does-reinforcement-learning-work",
+      "title": "How Does Reinforcement Learning Work - Educative",
+      "snippet": "Reinforcement Learning (RL) is a type of machine learning in which an agent learns by interacting with an environment and receiving feedback in the form of rewards or penalties. In this article, we explain how RL works, using the example of the CartPole problem, where the agent learns to balance a pole. We also highlight real-world applications of RL to show its practical use in solving ...",
+      "link": "https://www.educative.io/blog/how-does-reinforcement-learning-work",
+      "ranks": {
+        "duckduckgo": 3
+      }
+    },
+    {
+      "url": "https://medium.com/@cedric.vandelaer/reinforcement-learning-an-introduction-part-1-4-866695deb4d1",
+      "title": "Reinforcement Learning: An introduction (Part 1/4)",
+      "snippet": "Reinforcement learning is a framework to learn any task. In theory, RL can solve any problem that is phrased as a Markov Decision Process.",
+      "link": "https://medium.com/@cedric.vandelaer/reinforcement-learning-an-introduction-part-1-4-866695deb4d1",
+      "ranks": {
+        "google": 4
+      }
+    },
+    {
+      "url": "https://yetiai.com/how-does-reinforcement-learning-work",
+      "title": "How Does Reinforcement Learning Work? Unveiling the Magic of AI ...",
+      "snippet": "Discover how reinforcement learning revolutionizes AI decision-making by using feedback to optimize actions. From mastering games to advancing healthcare and finance, learn about RL's applications, its current challenges, and its potential for transforming industries. Understand computational complexities, scalability issues, and the future of strategic learning in artificial intelligence.",
+      "link": "https://yetiai.com/how-does-reinforcement-learning-work/",
+      "ranks": {
+        "duckduckgo": 5
+      }
+    },
+    {
+      "url": "https://cloud.google.com/discover/what-is-reinforcement-learning",
+      "title": "What is reinforcement learning (RL)?",
+      "snippet": "Reinforcement learning (RL) is a type of machine learning where an \"agent\" learns optimal behavior through interaction with its environment.",
+      "link": "https://cloud.google.com/discover/what-is-reinforcement-learning",
+      "ranks": {
+        "google": 6
+      }
+    },
+    {
+      "url": "https://towardsdatascience.com/reinforcement-learning-rl-what-is-it-and-how-does-it-work-1962cf6db103",
+      "title": "Reinforcement Learning (RL) - What Is It and How Does It Work?",
+      "snippet": "A gentle introduction to Reinforcement Learning with a clear explanation of concepts and terminology",
+      "link": "https://towardsdatascience.com/reinforcement-learning-rl-what-is-it-and-how-does-it-work-1962cf6db103/",
+      "ranks": {
+        "duckduckgo": 6
+      }
+    },
+    {
+      "url": "https://introml.mit.edu/notes/reinforcement_learning.html",
+      "title": "12 Reinforcement Learning \u2013 6.390 - Intro to Machine Learning",
+      "snippet": "Reinforcement learning (RL) is a type of machine learning where an agent learns to make decisions by interacting with an environment.",
+      "link": "https://introml.mit.edu/notes/reinforcement_learning.html",
+      "ranks": {
+        "google": 7
+      }
+    },
+    {
+      "url": "https://reinforcement-learning.com/kb/what-is-reinforcement-learning",
+      "title": "What Is Reinforcement Learning? A Visual Guide",
+      "snippet": "A plain-English, visual guide to reinforcement learning: the agent-environment loop, rewards, policies, value functions, MDPs, deep RL and RL for LLMs.",
+      "link": "https://www.reinforcement-learning.com/kb/what-is-reinforcement-learning",
+      "ranks": {
+        "duckduckgo": 7
+      }
+    }
+  ],
+  "How does the PageRank algorithm rank web pages?": [
+    {
+      "url": "https://en.wikipedia.org/wiki/PageRank",
+      "title": "PageRank",
+      "snippet": "PageRank works by counting the number and quality R ( E ) . A PageRank results from a mathematical algorithm based on the Webgraph, created by all World Wide ...",
+      "link": "https://en.wikipedia.org/wiki/PageRank",
+      "ranks": {
+        "google": 1,
+        "duckduckgo": 2
+      }
+    },
+    {
+      "url": "https://geeksforgeeks.org/python/page-rank-algorithm-implementation",
+      "title": "Page Rank Algorithm and Implementation - GeeksforGeeks",
+      "snippet": "PageRank (PR) is an algorithm used by Google Search to rank websites in their search engine results. PageRank was named after Larry Page, one of the founders of Google. PageRank is a way of measuring the importance of website pages. According to Google: PageRank works by counting the number and quality of links to a page to determine a rough estimate of how important the website is. The ...",
+      "link": "https://www.geeksforgeeks.org/python/page-rank-algorithm-implementation/",
+      "ranks": {
+        "duckduckgo": 1
+      }
+    },
+    {
+      "url": "https://web.stanford.edu/class/cs54n/handouts/24-GooglePageRankAlgorithm.pdf",
+      "title": "The Google PageRank Algorithm",
+      "snippet": "This paper describes PageRank, a method for rating Web pages objectively and mechanically, effectively measuring the human interest and.",
+      "link": "https://web.stanford.edu/class/cs54n/handouts/24-GooglePageRankAlgorithm.pdf",
+      "ranks": {
+        "google": 2
+      }
+    },
+    {
+      "url": "https://youtube.com/watch?v=meonLcN7LD4",
+      "title": "How Google's PageRank Algorithm Works",
+      "snippet": "Google's PageRank ... The algorithm attempts to rank pages according to their importance. But what does it mean for a web page to be \"important\"?",
+      "link": "https://www.youtube.com/watch?v=meonLcN7LD4",
+      "ranks": {
+        "google": 3
+      }
+    },
+    {
+      "url": "https://towardsdatascience.com/pagerank-algorithm-fully-explained-dc794184b4af",
+      "title": "PageRank algorithm, fully explained",
+      "snippet": "The web can be represented like a directed graph where nodes represent the web pages and edges form links between them. We can then rank our web pages ...",
+      "link": "https://towardsdatascience.com/pagerank-algorithm-fully-explained-dc794184b4af/",
+      "ranks": {
+        "google": 4,
+        "duckduckgo": 3
+      }
+    },
+    {
+      "url": "https://seranking.com/blog/pagerank",
+      "title": "Google PageRank algorithm and website authority assessment",
+      "snippet": "What is PageRank PageRank is an algorithm used by Google Search for ranking web pages based on the number and quality of links pointing to them. It was developed by Google pioneer engineers Larry Page and Sergey Brin in 1998 and marked the first successful attempt of any search engine to assess the level of authority a given web page had.",
+      "link": "https://seranking.com/blog/pagerank/",
+      "ranks": {
+        "duckduckgo": 4
+      }
+    },
+    {
+      "url": "https://reddit.com/r/explainlikeimfive/comments/4kusnv/eli5i_have_a_fundamental_understanding_of_what_a",
+      "title": "Can anyone can explain how Google's PageRank ...",
+      "snippet": "It uses combinations of page popularity, external links, traffic patterns, etc on indexed websites (stored methodically with shorter terms that ...",
+      "link": "https://www.reddit.com/r/explainlikeimfive/comments/4kusnv/eli5i_have_a_fundamental_understanding_of_what_a/",
+      "ranks": {
+        "google": 5
+      }
+    },
+    {
+      "url": "https://geeksforgeeks.org/data-analysis/page-rank-algorithm-in-data-mining",
+      "title": "Page Rank Algorithm in Data Mining - GeeksforGeeks",
+      "snippet": "Prerequisite: What is Page Rank Algorithm The page rank algorithm is applicable to web pages. The page rank algorithm is used by Google Search to rank many websites in their search engine results. The page rank algorithm was named after Larry Page, one of the founders of Google.",
+      "link": "https://www.geeksforgeeks.org/data-analysis/page-rank-algorithm-in-data-mining/",
+      "ranks": {
+        "duckduckgo": 5
+      }
+    },
+    {
+      "url": "https://pi.math.cornell.edu/~mec/Winter2009/RalucaRemus/Lecture3/lecture3.html",
+      "title": "PageRank Algorithm - The Mathematics of Google Search",
+      "snippet": "Whether we talk about popularity or authority, we can iteratively assign a rank to each web page, based on the ranks of the pages that point to it. To this aim, ...",
+      "link": "https://pi.math.cornell.edu/~mec/Winter2009/RalucaRemus/Lecture3/lecture3.html",
+      "ranks": {
+        "google": 6
+      }
+    },
+    {
+      "url": "https://tutorialspoint.com/graph_theory/graph_theory_pagerank_algorithm.htm",
+      "title": "Graph Theory - PageRank Algorithm - Online Tutorials Library",
+      "snippet": "The PageRank algorithm is one of the most famous graph algorithms, developed by Larry Page and Sergey Brin, the founders of Google. It was originally designed to rank web pages in search engine results based on their importance.",
+      "link": "https://www.tutorialspoint.com/graph_theory/graph_theory_pagerank_algorithm.htm",
+      "ranks": {
+        "duckduckgo": 6
+      }
+    },
+    {
+      "url": "https://memgraph.com/blog/pagerank-algorithm-for-graph-databases",
+      "title": "PageRank Algorithm for Graph Databases",
+      "snippet": "Using the PageRank algorithm, each ranking page receives a boost from the number and importance of incoming links (other web pages that are linking to it).",
+      "link": "https://memgraph.com/blog/pagerank-algorithm-for-graph-databases",
+      "ranks": {
+        "google": 7
+      }
+    },
+    {
+      "url": "https://semrush.com/blog/pagerank",
+      "title": "Is Google PageRank Still Important? - Semrush",
+      "snippet": "PageRank is one of Google's oldest algorithms. Larry Page and Sergey Brin developed it in 1996 during a college research project. PageRank remains important today and plays a key role in SEO. In this article, learn how PageRank works and how to use that knowledge to improve SEO results. Let's start with the basics. What Is PageRank? PageRank is a Google algorithm that measures webpage ...",
+      "link": "https://www.semrush.com/blog/pagerank/",
+      "ranks": {
+        "duckduckgo": 7
+      }
+    }
+  ],
+  "What is the intuition behind principal component analysis?": [
+    {
+      "url": "https://stats.stackexchange.com/questions/217995/what-is-an-intuitive-explanation-for-how-pca-turns-from-a-geometric-problem-wit",
+      "title": "What is an intuitive explanation for how PCA turns from a ...",
+      "snippet": "I've read a lot about PCA, including various tutorials and questions (such as this one, this one, this one, and this one). The geometric problem that ...",
+      "link": "https://stats.stackexchange.com/questions/217995/what-is-an-intuitive-explanation-for-how-pca-turns-from-a-geometric-problem-wit",
+      "ranks": {
+        "google": 1
+      }
+    },
+    {
+      "url": "https://geeksforgeeks.org/data-analysis/principal-component-analysis-pca",
+      "title": "Principal Component Analysis (PCA)",
+      "snippet": "PCA uses linear algebra to transform data into new features called principal components. It finds these by calculating eigenvectors ...",
+      "link": "https://www.geeksforgeeks.org/data-analysis/principal-component-analysis-pca/",
+      "ranks": {
+        "google": 3,
+        "duckduckgo": 1
+      }
+    },
+    {
+      "url": "https://medium.com/swlh/intuitive-explanation-for-principle-component-analysis-pca-from-scratch-157a1b162f1f",
+      "title": "Intuitive Explanation for Principle Component Analysis ...",
+      "snippet": "PCA is a dimensionality-reduction technique used to make large datasets with hundreds of thousands of features into smaller datasets with fewer ...",
+      "link": "https://medium.com/swlh/intuitive-explanation-for-principle-component-analysis-pca-from-scratch-157a1b162f1f",
+      "ranks": {
+        "google": 2
+      }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Principal_component_analysis",
+      "title": "Principal component analysis - Wikipedia",
+      "snippet": "Principal component analysis (PCA) is a linear dimensionality reduction technique with applications in exploratory data analysis, visualization and data preprocessing. The data are linearly transformed onto a new coordinate system such that the directions (principal components) capturing the largest variation in the data can be easily identified.",
+      "link": "https://en.wikipedia.org/wiki/Principal_component_analysis",
+      "ranks": {
+        "duckduckgo": 2
+      }
+    },
+    {
+      "url": "https://baeldung.com/cs/principal-component-analysis",
+      "title": "PCA: Principal Component Analysis | Baeldung on Computer Science",
+      "snippet": "Learn about principal component analysis and how to use it to reduce the dimensionality of a dataset and discover its principal aspects.",
+      "link": "https://www.baeldung.com/cs/principal-component-analysis",
+      "ranks": {
+        "duckduckgo": 3
+      }
+    },
+    {
+      "url": "https://gregorygundersen.com/blog/2022/09/17/pca",
+      "title": "Principal Component Analysis",
+      "snippet": "An interesting and intuitive property of PCA is that total variance of our raw data is identical to the total variance of our transformed data.",
+      "link": "https://gregorygundersen.com/blog/2022/09/17/pca/",
+      "ranks": {
+        "google": 4
+      }
+    },
+    {
+      "url": "https://coursera.org/articles/principal-component-analysis",
+      "title": "Principal Component Analysis (PCA): Definition, How It Works ... - Coursera",
+      "snippet": "Learn about principal component analysis, including how it works and its real-world applications in areas such as machine learning and data visualization.",
+      "link": "https://www.coursera.org/articles/principal-component-analysis",
+      "ranks": {
+        "duckduckgo": 4
+      }
+    },
+    {
+      "url": "https://towardsdatascience.com/the-essence-of-principal-component-analysis-pca-83eec584fd1c",
+      "title": "The Essence of Principal Component Analysis (PCA)",
+      "snippet": "PCA is the simplest of the true eigenvector-based multivariate analyses. It is most commonly used as a dimensionality-reduction technique, reducing the ...",
+      "link": "https://towardsdatascience.com/the-essence-of-principal-component-analysis-pca-83eec584fd1c/",
+      "ranks": {
+        "google": 5
+      }
+    },
+    {
+      "url": "https://guvi.in/blog/principal-component-analysis-pca",
+      "title": "Principal Component Analysis (PCA): Beginner's Guide",
+      "snippet": "In this article, we will walk through exactly what PCA is, the intuition behind principal components, the five-step mathematical process that produces them, how to implement PCA in Python using scikit-learn, how to choose the right number of components using explained variance and the scree plot, real-world applications, and the limitations you ...",
+      "link": "https://www.guvi.in/blog/principal-component-analysis-pca/",
+      "ranks": {
+        "duckduckgo": 5
+      }
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4792409",
+      "title": "Principal component analysis: a review and recent ... - PMC",
+      "snippet": "Its idea is simple\u2014reduce the dimensionality of a dataset, while preserving as much 'variability' (i.e. statistical information) as possible. Although it is ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4792409/",
+      "ranks": {
+        "google": 6
+      }
+    },
+    {
+      "url": "https://pwskills.com/blog/data-science/principal-component-analysis",
+      "title": "Principal Component Analysis: What is PCA, How it Works, Examples ...",
+      "snippet": "What is Principal Component Analysis? Importance of Principal Component Analysis How Does Principal Component Analysis Work? - Stepwise Principal Component Analysis Example Mathematical Intuition Behind PCA PCA vs. t-SNE vs. LDA - Which One Should You Use?",
+      "link": "https://pwskills.com/blog/data-science/principal-component-analysis",
+      "ranks": {
+        "duckduckgo": 6
+      }
+    },
+    {
+      "url": "https://reddit.com/r/statistics/comments/2yp3tl/can_someone_please_explain_principal_component",
+      "title": "Can someone please explain \"Principal Component ...",
+      "snippet": "The benefit of PCA is that it makes it easier to see where the variation in y is coming from, in terms of your principal components. The ...",
+      "link": "https://www.reddit.com/r/statistics/comments/2yp3tl/can_someone_please_explain_principal_component/",
+      "ranks": {
+        "google": 7
+      }
+    },
+    {
+      "url": "https://geeksforgeeks.org/videos/principal-component-analysis-pca-intuition",
+      "title": "Principal Component Analysis (PCA) Intuition - GeeksforGeeks",
+      "snippet": "This video aims to provide an intuitive understanding of Principal Component Analysis (PCA), a powerful dimensionality reduction technique. Dive into the fundamental principles behind PCA and learn how it transforms high-dimensional data into a lower-dimensional space while preserving key information.",
+      "link": "https://www.geeksforgeeks.org/videos/principal-component-analysis-pca-intuition/",
+      "ranks": {
+        "duckduckgo": 7
+      }
+    }
+  ],
+  "How does a neural network learn through backpropagation?": [
+    {
+      "url": "https://3blue1brown.com/lessons/backpropagation-calculus",
+      "title": "Backpropagation calculus - 3Blue1Brown",
+      "snippet": "As a quick reminder, backpropagation is an algorithm for calculating the gradient of the cost function of a network.",
+      "link": "https://www.3blue1brown.com/lessons/backpropagation-calculus/",
+      "ranks": {
+        "google": 1
+      }
+    },
+    {
+      "url": "https://geeksforgeeks.org/machine-learning/backpropagation-in-neural-network",
+      "title": "Backpropagation in Neural Network - GeeksforGeeks",
+      "snippet": "Example Let's walk through an example of Back Propagation in machine learning. Assume the neurons use the sigmoid activation function for the forward and backward pass. The target output is 0.5 and the learning rate is 1. Example (1) of backpropagation sum Forward Propagation 1. Initial Calculation The weighted sum at each node is calculated ...",
+      "link": "https://www.geeksforgeeks.org/machine-learning/backpropagation-in-neural-network/",
+      "ranks": {
+        "duckduckgo": 1
+      }
+    },
+    {
+      "url": "https://superdatascience.com/blogs/artificial-neural-networks-backpropagation",
+      "title": "Artificial Neural Networks - Backpropagation",
+      "snippet": "The key underlying principle of Backpropagation is that the structure of the algorithm allows for large numbers of weights to be adjusted ...",
+      "link": "https://www.superdatascience.com/blogs/artificial-neural-networks-backpropagation",
+      "ranks": {
+        "google": 2
+      }
+    },
+    {
+      "url": "https://developers.google.com/machine-learning/crash-course/neural-networks/backpropagation",
+      "title": "Neural Networks: Training using backpropagation | Machine Learning ...",
+      "snippet": "Learn how neural networks are trained using the backpropagation algorithm, how to perform dropout regularization, and best practices to avoid common training pitfalls including vanishing or exploding gradients.",
+      "link": "https://developers.google.com/machine-learning/crash-course/neural-networks/backpropagation",
+      "ranks": {
+        "duckduckgo": 2
+      }
+    },
+    {
+      "url": "https://jeremyjordan.me/neural-networks-training",
+      "title": "Neural networks: training with backpropagation. - Jeremy Jordan",
+      "snippet": "During each iteration we perform forward propagation to compute the outputs and backward propagation to compute the errors; one complete ...",
+      "link": "https://www.jeremyjordan.me/neural-networks-training/",
+      "ranks": {
+        "google": 3
+      }
+    },
+    {
+      "url": "https://geeksforgeeks.org/computer-vision/backpropagation-in-convolutional-neural-networks",
+      "title": "Backpropagation in Convolutional Neural Networks",
+      "snippet": "Backpropagation is a fundamental training algorithm in CNNs that propagates errors backwards through the network to optimise learning. It enables the model to adjust internal parameters and improve performance over time. Calculates gradients of the loss function with respect to network weights.",
+      "link": "https://www.geeksforgeeks.org/computer-vision/backpropagation-in-convolutional-neural-networks/",
+      "ranks": {
+        "duckduckgo": 3
+      }
+    },
+    {
+      "url": "https://medium.com/@ryassminh/math-for-ml-backpropagation-in-neural-networks-6409f6da6d48",
+      "title": "Math for ML: Backpropagation in Neural Networks.",
+      "snippet": "Backpropagation is what allows neural networks to learn from their mistakes. It works by moving backward through the network, adjusting each ...",
+      "link": "https://medium.com/@ryassminh/math-for-ml-backpropagation-in-neural-networks-6409f6da6d48",
+      "ranks": {
+        "google": 4
+      }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Backpropagation",
+      "title": "Backpropagation - Wikipedia",
+      "snippet": "In machine learning, backpropagation is a gradient computation method commonly used for training a neural network in computing parameter updates. It is an efficient application of the chain rule to neural networks. Backpropagation efficiently computes the gradient of the loss with respect to the network weights for a single input-output example. It does this by propagating derivatives ...",
+      "link": "https://en.wikipedia.org/wiki/Backpropagation",
+      "ranks": {
+        "duckduckgo": 4
+      }
+    },
+    {
+      "url": "https://reddit.com/r/deeplearning/comments/lqfix4/can_anybody_teacheli5_me_back_propagation_in",
+      "title": "Can anybody teach(ELI5) me back propagation in neural ...",
+      "snippet": "The backprop algorithm calculates that difference between what it did and should've done without an actual counterfactual network state.",
+      "link": "https://www.reddit.com/r/deeplearning/comments/lqfix4/can_anybody_teacheli5_me_back_propagation_in/",
+      "ranks": {
+        "google": 5
+      }
+    },
+    {
+      "url": "https://visionbook.mit.edu/backpropagation.html",
+      "title": "14 Backpropagation - Foundations of Computer Vision",
+      "snippet": "14.6.2 Backpropagation for a Pointwise Nonlinearity 14.6.3 Backpropagation for Loss Layers 14.6.4 Putting It All Together: Backpropagation through an MLP 14.6.5 Forward-Backward Is Just a Bigger Neural Network 14.7 Backpropagation through DAGs: Branch and Merge 14.8 Parameter Sharing 14.9 Backpropagation to the Data 14.10 Concluding Remarks",
+      "link": "https://visionbook.mit.edu/backpropagation.html",
+      "ranks": {
+        "duckduckgo": 5
+      }
+    },
+    {
+      "url": "https://medium.com/@kiranvutukuri/42-backpropagation-how-neural-networks-learn-f4a4a1270dd5",
+      "title": "42. Backpropagation: How Neural Networks Learn",
+      "snippet": "Backpropagation is the engine of neural network learning. Relies on chain rule, gradients, and weight updates. Allows networks to learn complex ...",
+      "link": "https://medium.com/@kiranvutukuri/42-backpropagation-how-neural-networks-learn-f4a4a1270dd5",
+      "ranks": {
+        "google": 6
+      }
+    },
+    {
+      "url": "https://perfectnotes.org/notes/machine-learning/backpropagation",
+      "title": "Backpropagation: How Neural Networks Learn (2026)",
+      "snippet": "Master Backpropagation - the Chain Rule algorithm that trains every neural network. Understand forward vs backward pass, gradients, Autograd, and the 1986 AI Winter case study in 2026.",
+      "link": "https://perfectnotes.org/notes/machine-learning/backpropagation",
+      "ranks": {
+        "duckduckgo": 6
+      }
+    },
+    {
+      "url": "https://medium.com/@kdwaMachineLearning/backpropagation-and-the-brain-a-brief-summary-5547101cc778",
+      "title": "Backpropagation and the brain",
+      "snippet": "Backpropagation is the most popular algorithm for training deep neural networks. We propagate error signals backward through the network to ...",
+      "link": "https://medium.com/@kdwaMachineLearning/backpropagation-and-the-brain-a-brief-summary-5547101cc778",
+      "ranks": {
+        "google": 7
+      }
+    },
+    {
+      "url": "https://learncodecamp.net/backpropagation-explained-visually",
+      "title": "Backpropagation Explained Visually: How Neural Networks Actually Learn",
+      "snippet": "A practical visual guide to backpropagation, computation graphs, the chain rule, and how gradients flow backward through a neural network.",
+      "link": "https://learncodecamp.net/backpropagation-explained-visually/",
+      "ranks": {
+        "duckduckgo": 7
+      }
+    }
+  ],
+  "Why does the central limit theorem hold?": [
+    {
+      "url": "https://stats.stackexchange.com/questions/3734/what-intuitive-explanation-is-there-for-the-central-limit-theorem",
+      "title": "What intuitive explanation is there for the central limit theorem?",
+      "snippet": "In several different contexts we invoke the central limit theorem to justify whatever statistical method we want to adopt (e.g., approximate the ...",
+      "link": "https://stats.stackexchange.com/questions/3734/what-intuitive-explanation-is-there-for-the-central-limit-theorem",
+      "ranks": {
+        "google": 1
+      }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Central_limit_theorem",
+      "title": "Central limit theorem",
+      "snippet": "Whatever the form of the population distribution, the sampling distribution tends to a Gaussian, and its dispersion is given by the central limit theorem.",
+      "link": "https://en.wikipedia.org/wiki/Central_limit_theorem",
+      "ranks": {
+        "google": 5,
+        "duckduckgo": 1
+      }
+    },
+    {
+      "url": "https://investopedia.com/terms/c/central_limit_theorem.asp",
+      "title": "What Is the Central Limit Theorem (CLT)?",
+      "snippet": "The central limit theorem (CLT) holds that as a sample size gets larger, its mean will increasingly approximate the mean in a normal ...",
+      "link": "https://www.investopedia.com/terms/c/central_limit_theorem.asp",
+      "ranks": {
+        "google": 2
+      }
+    },
+    {
+      "url": "https://geeksforgeeks.org/maths/central-limit-theorem",
+      "title": "Central Limit Theorem in Statistics - GeeksforGeeks",
+      "snippet": "The Central Limit Theorem (CLT) describes how the sample mean distribution changes with increasing sample size. If the sample size n is sufficiently large (with n>30 often used as a rule of thumb), the distribution of the sample mean approaches a normal distribution, regardless of the shape of the underlying population distribution, provided ...",
+      "link": "https://www.geeksforgeeks.org/maths/central-limit-theorem/",
+      "ranks": {
+        "duckduckgo": 2
+      }
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5370305",
+      "title": "Central limit theorem: the cornerstone of modern statistics - PMC",
+      "snippet": "Since the central limit theorem determines the sampling distribution of the means with a sufficient size, a specific mean (X\u0305) can be standardized and ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5370305/",
+      "ranks": {
+        "google": 3
+      }
+    },
+    {
+      "url": "https://statisticsbyjim.com/basics/central-limit-theorem",
+      "title": "Central Limit Theorem Explained",
+      "snippet": "The central limit theorem is vital in statistics for two main reasons\u2014the normality assumption and the precision of the estimates.",
+      "link": "https://statisticsbyjim.com/basics/central-limit-theorem/",
+      "ranks": {
+        "google": 7,
+        "duckduckgo": 3
+      }
+    },
+    {
+      "url": "https://reddit.com/r/math/comments/66n14u/why_is_the_central_limit_theorem_so_fundamental",
+      "title": "Why is the Central Limit Theorem so fundamental? : r/math",
+      "snippet": "The central limit theorem says, with huge generality, that if we have enough stuff it looks kinda Gaussian.",
+      "link": "https://www.reddit.com/r/math/comments/66n14u/why_is_the_central_limit_theorem_so_fundamental/",
+      "ranks": {
+        "google": 4
+      }
+    },
+    {
+      "url": "https://simplypsychology.org/central-limit-theorem.html",
+      "title": "What is the Central Limit Theorem in Statistics? - Simply Psychology",
+      "snippet": "Why is the central limit theorem important? The central limit theorem tells us that no matter what the distribution of the population is, the shape of the sampling distribution will approach normality as the sample size (N) increases.",
+      "link": "https://www.simplypsychology.org/central-limit-theorem.html",
+      "ranks": {
+        "duckduckgo": 4
+      }
+    },
+    {
+      "url": "https://casrai.org/guides/central-limit-theorem",
+      "title": "Central Limit Theorem: Sample Means Explained \u2014 CASRAI",
+      "snippet": "The Central Limit Theorem explains why the distribution of sample means approaches normal as sample size increases, regardless of the population's shape. Covers the formal conditions, a simulation walkthrough, the n\u226530 rule of thumb and its limits, and what the theorem does and does not license.",
+      "link": "https://casrai.org/guides/central-limit-theorem",
+      "ranks": {
+        "duckduckgo": 5
+      }
+    },
+    {
+      "url": "https://ebsco.com/research-starters/science/central-limit-theorem",
+      "title": "Central limit theorem | Science | Research Starters",
+      "snippet": "The theorem is particularly useful because it allows researchers to make inferences about a whole population based on smaller, manageable samples, which is ...",
+      "link": "https://www.ebsco.com/research-starters/science/central-limit-theorem/",
+      "ranks": {
+        "google": 6
+      }
+    },
+    {
+      "url": "https://finishmymathclass.com/central-limit-theorem-explained",
+      "title": "Central Limit Theorem Explained: Why It's the Foundation of Statistics",
+      "snippet": "Central Limit Theorem Central Limit Theorem Explained: Why It's the Foundation of Statistics \ud83d\udcca Quick Answer The Central Limit Theorem (CLT) says that when you take many random samples from ANY population and calculate their means, those sample means will form an approximately normal distribution \u2014even if the original population isn't ...",
+      "link": "https://finishmymathclass.com/central-limit-theorem-explained/",
+      "ranks": {
+        "duckduckgo": 6
+      }
+    },
+    {
+      "url": "https://stats.libretexts.org/Courses/Red_Rocks_Community_College/Introduction_to_Statistics_(RRCC)/06%3A_Sampling_Distributions/6.03%3A_Central_Limit_Theorem-_Meaning_and_Implications",
+      "title": "6.3: Central Limit Theorem- Meaning and Implications",
+      "snippet": "Central Limit Theorem: Simulation (n = 30) Exploration: What Did You See? Example: Average Wait Times at a Coffee Shop Related Video The Central Limit Theorem (CLT) is one of the most powerful and surprising results in all of statistics. It explains why sampling distributions are often bell-shaped even when the original population isn't.",
+      "link": "https://stats.libretexts.org/Courses/Red_Rocks_Community_College/Introduction_to_Statistics_(RRCC)/06%3A_Sampling_Distributions/6.03%3A_Central_Limit_Theorem-_Meaning_and_Implications",
+      "ranks": {
+        "duckduckgo": 7
+      }
+    }
+  ],
+  "What is the difference between correlation and causation?": [
+    {
+      "url": "https://amplitude.com/blog/causation-correlation",
+      "title": "Correlation vs Causation: Learn the Difference",
+      "snippet": "What's the difference between correlation and causation? While causation and correlation can exist simultaneously, correlation does not imply causation.",
+      "link": "https://amplitude.com/blog/causation-correlation",
+      "ranks": {
+        "google": 1
+      }
+    },
+    {
+      "url": "https://coursera.org/articles/correlation-vs-causation",
+      "title": "Correlation vs. Causation: What's the Difference?",
+      "snippet": "Correlation refers to variables moving together, whereas causation means one variable directly affects the other. Correlation versus causation ...",
+      "link": "https://www.coursera.org/articles/correlation-vs-causation",
+      "ranks": {
+        "google": 4,
+        "duckduckgo": 1
+      }
+    },
+    {
+      "url": "https://scribbr.com/methodology/correlation-vs-causation",
+      "title": "Correlation vs. Causation | Difference, Designs & Examples",
+      "snippet": "Correlation means variables are statistically associated. Causation means that a change in one variable causes a change in another.",
+      "link": "https://www.scribbr.com/methodology/correlation-vs-causation/",
+      "ranks": {
+        "google": 2,
+        "duckduckgo": 7
+      }
+    },
+    {
+      "url": "https://statisticsfundamentals.com/statistics-and-probability/correlation-vs-causation",
+      "title": "Correlation vs Causation: Why They're Not the Same",
+      "snippet": "Correlation does not imply causation. Learn the exact difference with real examples, discover the Bradford Hill criteria, use our free Pearson correlation calculator, and avoid the most common statistical mistake in research.",
+      "link": "https://statisticsfundamentals.com/statistics-and-probability/correlation-vs-causation/",
+      "ranks": {
+        "duckduckgo": 2
+      }
+    },
+    {
+      "url": "https://abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation",
+      "title": "Correlation and causation",
+      "snippet": "Causation indicates that one event is the result of the occurrence of the other event; i.e. there is a causal relationship between the two ...",
+      "link": "https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation",
+      "ranks": {
+        "google": 3,
+        "duckduckgo": 6
+      }
+    },
+    {
+      "url": "https://statology.org/understanding-correlation-and-causation",
+      "title": "Understanding Correlation and Causation - Statology",
+      "snippet": "Wrapping Up Understanding the subtle difference between correlation and causation is crucial for accurate analysis and interpretation of data, helping us avoid misleading conclusions and ensuring that we identify cases when two variables simply related versus when cases when one directly influences the other.",
+      "link": "https://www.statology.org/understanding-correlation-and-causation/",
+      "ranks": {
+        "duckduckgo": 3
+      }
+    },
+    {
+      "url": "https://geeksforgeeks.org/maths/correlation-vs-causation-2",
+      "title": "Correlation vs Causation - GeeksforGeeks",
+      "snippet": "Causation is indicating that X and Y have a cause-and-effect connection with one another. It tells X causes Y. Causation is also understood as a basis. Firstly, causation indicates that two possibilities occur at the same time or one after the other. And secondly, it tells these two variables not only occur jointly, the presence of one drives the other to display. Correlation is a word in ...",
+      "link": "https://www.geeksforgeeks.org/maths/correlation-vs-causation-2/",
+      "ranks": {
+        "duckduckgo": 4
+      }
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10010939",
+      "title": "How to Distinguish Correlation from Causation in Orthopaedic ...",
+      "snippet": "Correlation does not imply causation, whereas, causation frequently occurs with correlation. Correlation and causation are related concepts, but may require ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10010939/",
+      "ranks": {
+        "google": 5
+      }
+    },
+    {
+      "url": "https://statisticsbyjim.com/basics/correlation-vs-causation",
+      "title": "Correlation vs Causation: Understanding the Differences - Statistics by Jim",
+      "snippet": "Correlation means that two variables move together, but it doesn't imply causation. Learn why correlation doesn't imply causation, what are the potential explanations for spurious correlations, and how to identify causal relationships.",
+      "link": "https://statisticsbyjim.com/basics/correlation-vs-causation/",
+      "ranks": {
+        "duckduckgo": 5
+      }
+    },
+    {
+      "url": "https://jmp.com/en/statistics-knowledge-portal/linear-models/what-is-correlation/correlation-vs-causation",
+      "title": "Correlation vs Causation | Introduction to Statistics",
+      "snippet": "This is why we commonly say \u201ccorrelation does not imply causation.\u201d A strong correlation might indicate causality, but there could easily be other explanations:.",
+      "link": "https://www.jmp.com/en/statistics-knowledge-portal/linear-models/what-is-correlation/correlation-vs-causation",
+      "ranks": {
+        "google": 6
+      }
+    },
+    {
+      "url": "https://healthjournalism.org/glossary-terms/correlation-vs-causation",
+      "title": "Correlation vs. causation",
+      "snippet": "Correlation is a relationship between two variables, and causation occurs when one of those variables has an effect on the other. A common mistake reporters ...",
+      "link": "https://healthjournalism.org/glossary-terms/correlation-vs-causation/",
+      "ranks": {
+        "google": 7
+      }
+    }
+  ],
+  "How do central banks control inflation through interest rates?": [
+    {
+      "url": "https://investopedia.com/ask/answers/122214/how-does-monetary-policy-influence-inflation.asp",
+      "title": "Understanding How Central Banks Control Inflation ...",
+      "snippet": "A central bank affects inflation by manipulating interest rates through monetary policy, either raising rates to cool the economy when inflation is high or ...",
+      "link": "https://www.investopedia.com/ask/answers/122214/how-does-monetary-policy-influence-inflation.asp",
+      "ranks": {
+        "google": 1,
+        "duckduckgo": 2
+      }
+    },
+    {
+      "url": "https://investmentinsight.org/2026/02/how-do-central-banks-use-interest-rates.html",
+      "title": "How Do Central Banks Use Interest Rates to Control Inflation?",
+      "snippet": "Conclusion Interest rates are the central bank's most important lever for controlling inflation. By adjusting the cost of borrowing and influencing spending, saving, and investment behavior, central banks can steer inflation toward target levels and support economic stability.",
+      "link": "https://www.investmentinsight.org/2026/02/how-do-central-banks-use-interest-rates.html",
+      "ranks": {
+        "duckduckgo": 1
+      }
+    },
+    {
+      "url": "https://federalreserve.gov/faqs/money_12856.htm",
+      "title": "How does the Federal Reserve affect inflation and ...",
+      "snippet": "For example, when interest rates go down, it becomes cheaper to borrow, so households are more willing to buy goods and services, and businesses ...",
+      "link": "https://www.federalreserve.gov/faqs/money_12856.htm",
+      "ranks": {
+        "google": 2
+      }
+    },
+    {
+      "url": "https://aeaweb.org/articles?id=10.1257%2Fjel.20251429",
+      "title": "How Do Central Banks Control Inflation? A Guide for the ...",
+      "snippet": "They pursue it using tools that include the interest they pay on reserves, the size and the composition of their balance sheet, and the dividends",
+      "link": "https://www.aeaweb.org/articles?id=10.1257/jel.20251429",
+      "ranks": {
+        "google": 3
+      }
+    },
+    {
+      "url": "https://investopedia.com/ask/answers/031115/how-do-central-banks-impact-interest-rates-economy.asp",
+      "title": "How Central Banks Control Interest Rates and Impact the Economy",
+      "snippet": "Learn how central banks, including the Federal Reserve, influence interest rates, affecting consumer spending, borrowing, and economic stability through monetary tools.",
+      "link": "https://www.investopedia.com/ask/answers/031115/how-do-central-banks-impact-interest-rates-economy.asp",
+      "ranks": {
+        "duckduckgo": 3
+      }
+    },
+    {
+      "url": "https://lse.ac.uk/CFM/assets/pdf/CFM-Discussion-Papers-2024/CFMDP2024-33-Paper.pdf",
+      "title": "How do central banks control inflation? A guide for the ...",
+      "snippet": "The central bank steers inflation by choosing the interest rate that remunerates reserves, but it must do so with a feedback from inflation to the interest rate ...",
+      "link": "https://www.lse.ac.uk/CFM/assets/pdf/CFM-Discussion-Papers-2024/CFMDP2024-33-Paper.pdf",
+      "ranks": {
+        "google": 4
+      }
+    },
+    {
+      "url": "https://maseconomics.com/the-evolving-role-of-central-banks-in-inflation-tools-challenges-and-innovations",
+      "title": "How Central Banks Control Inflation - MASEconomics",
+      "snippet": "Central banks control inflation by moving a short-term interest rate, steering the supply of reserves, and anchoring what the public expects. Higher rates reduce borrowing and spending, which cools demand; lower rates do the opposite.",
+      "link": "https://maseconomics.com/the-evolving-role-of-central-banks-in-inflation-tools-challenges-and-innovations/",
+      "ranks": {
+        "duckduckgo": 4
+      }
+    },
+    {
+      "url": "https://richmondfed.org/~/media/richmondfedorg/publications/research/economic_quarterly/2004/summer/pdf/hetzel.pdf",
+      "title": "How Do Central Banks Control Inflation?",
+      "snippet": "By using the interest rate as its policy variable\u2014as long as it successfully tracks the natural rate\u2014the central bank allows the nominal quantity of money to ...",
+      "link": "https://www.richmondfed.org/~/media/richmondfedorg/publications/research/economic_quarterly/2004/summer/pdf/hetzel.pdf",
+      "ranks": {
+        "google": 5
+      }
+    },
+    {
+      "url": "https://financialdeepdive.com/economy/inflation/how-central-banks-control-inflation",
+      "title": "How Central Banks Control Inflation | FinancialDeepDive",
+      "snippet": "Central banks control inflation using tools like interest rates, reserve requirements, and open market operations. When prices rise too fast, central banks raise rates to cool spending. This article explains exactly how central bank monetary policy works, why it matters, and what it means for your money.",
+      "link": "https://financialdeepdive.com/economy/inflation/how-central-banks-control-inflation",
+      "ranks": {
+        "duckduckgo": 5
+      }
+    },
+    {
+      "url": "https://imf.org/en/about/factsheets/sheets/2023/monetary-policy-and-central-banking",
+      "title": "Monetary Policy and Central Banking",
+      "snippet": "Central banks use monetary policy to manage economic fluctuations and achieve price stability, which means that inflation is low and stable.",
+      "link": "https://www.imf.org/en/about/factsheets/sheets/2023/monetary-policy-and-central-banking",
+      "ranks": {
+        "google": 6
+      }
+    },
+    {
+      "url": "https://econexplain.com/monetary-policy/how-do-central-banks-control-inflation-through-interest-rates-7",
+      "title": "How Do Central Banks Control Inflation Through Interest Rates?",
+      "snippet": "Central banks typically raise interest rates to combat increasing inflation. When prices rise faster than expected, central banks implement this strategy to cool down the economy. Higher interest rates make borrowing more expensive. This discourages consumer spending and business investment, which can help slow inflation by reducing overall demand for goods and services. For instance, in 2022 ...",
+      "link": "https://econexplain.com/monetary-policy/how-do-central-banks-control-inflation-through-interest-rates-7/",
+      "ranks": {
+        "duckduckgo": 6
+      }
+    },
+    {
+      "url": "https://stlouisfed.org/on-the-economy/2016/november/how-central-banks-typically-control-inflation",
+      "title": "How Do Central Banks Typically Control Inflation?",
+      "snippet": "Central banks tend to increase their nominal interest rate target when inflation is above their inflation target and vice versa.",
+      "link": "https://www.stlouisfed.org/on-the-economy/2016/november/how-central-banks-typically-control-inflation",
+      "ranks": {
+        "google": 7
+      }
+    },
+    {
+      "url": "https://econexplain.com/monetary-policy/how-do-central-banks-manage-inflation-through-interest-rates",
+      "title": "How do central banks manage inflation through interest rates ...",
+      "snippet": "Central banks manage inflation primarily by adjusting interest rates. When inflation rises above a target level, central banks typically increase interest rates to cool down the economy. This process involves making borrowing more expensive, which discourages spending and investment. As consumer and business spending declines, demand decreases, leading to a reduction in price pressures. For ...",
+      "link": "https://econexplain.com/monetary-policy/how-do-central-banks-manage-inflation-through-interest-rates/",
+      "ranks": {
+        "duckduckgo": 7
+      }
+    }
+  ],
+  "How does compound interest lead to long-term wealth accumulation?": [
+    {
+      "url": "https://federal.bank.in/the-power-of-compound-interest-how-to-make-your-money-work-for-you",
+      "title": "The Power of Compound Interest: How to Make Your ...",
+      "snippet": "Compound interest helps investments grow exponentially. Over time, it leads to wealth accumulation. Small Contributions: Starting early has the benefit of",
+      "link": "https://www.federal.bank.in/the-power-of-compound-interest-how-to-make-your-money-work-for-you",
+      "ranks": {
+        "google": 1
+      }
+    },
+    {
+      "url": "https://wealthdefined.com/long-term-wealth-accumulation-through-compound-interest",
+      "title": "Long-term wealth accumulation through compound interest",
+      "snippet": "Key Takeaways: Compound interest is a powerful tool for long-term wealth accumulation. Understanding how compound interest works can help you make informed investment decisions. Starting early and staying consistent are key factors in harnessing the benefits of compound interest. Compound interest works best over long periods, making it ideal for long-term financial goals. Warren Buffett's ...",
+      "link": "https://wealthdefined.com/long-term-wealth-accumulation-through-compound-interest/",
+      "ranks": {
+        "duckduckgo": 1
+      }
+    },
+    {
+      "url": "https://investor.gov/financial-tools-calculators/calculators/compound-interest-calculator",
+      "title": "Compound Interest Calculator",
+      "snippet": "Determine how much your money can grow using the power of compound interest. Length of Time in Years Length of time, in years, that you plan to save. ly ...",
+      "link": "https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator",
+      "ranks": {
+        "google": 2
+      }
+    },
+    {
+      "url": "https://investopedia.com/terms/c/compoundinterest.asp",
+      "title": "The Power of Compound Interest: Calculations and Examples",
+      "snippet": "The long-term effect of compound interest on savings and investments is indeed powerful. Because it grows your money much faster than simple interest, compound interest is a central factor in ...",
+      "link": "https://www.investopedia.com/terms/c/compoundinterest.asp",
+      "ranks": {
+        "duckduckgo": 2
+      }
+    },
+    {
+      "url": "https://nasaa.org/investor-education/young-adult-money-mission/compound-interest-2",
+      "title": "Compound Interest",
+      "snippet": "Compound interest causes principal to grow exponentially over time. In the case of invested assets, it is a powerful tool to build wealth. higher risk of loss,",
+      "link": "https://www.nasaa.org/investor-education/young-adult-money-mission/compound-interest-2/",
+      "ranks": {
+        "google": 3
+      }
+    },
+    {
+      "url": "https://fastercapital.com/content/The-Power-of-Compound-Interest-in-Long-Term-Holding-Periods.html",
+      "title": "The Power of Compound Interest in Long Term Holding Periods",
+      "snippet": "The Power of Compound Interest in Long Term Holding Periods 2026 update summary Summary: 4. Real-Life Examples of Long-Term Holding Periods and Their Impact on Wealth Accumulation Understanding the basics of compound interest is crucial for anyone looking to maximize their long-term investment returns . Compound interest is often referred to as the \"eighth wonder of the world\" and for good ...",
+      "link": "https://fastercapital.com/content/The-Power-of-Compound-Interest-in-Long-Term-Holding-Periods.html",
+      "ranks": {
+        "duckduckgo": 3
+      }
+    },
+    {
+      "url": "https://shoreunitedbank.com/shore-articles/the-power-of-compound-interest-letting-your-money-grow",
+      "title": "The Power of Compound Interest: Letting Your Money Grow",
+      "snippet": "Even small contributions made consistently over a long period can lead to significant wealth accumulation.",
+      "link": "https://www.shoreunitedbank.com/shore-articles/the-power-of-compound-interest-letting-your-money-grow",
+      "ranks": {
+        "google": 4
+      }
+    },
+    {
+      "url": "https://gobankingrates.com/money/wealth/power-of-compound-interest-secrets-to-long-term-wealth-building",
+      "title": "The Power of Compound Interest: Secrets to Long-Term Wealth Building ...",
+      "snippet": "With interest that compounds monthly, your balance at the end of that 20-year period will be nearly $493,000. \"Clearly, compound interest is a much more lucrative arrangement, and the differential grows over time. To maximize the power of compound interest and supercharge your savings, invest as early and for as long as possible,\" Brock said.",
+      "link": "https://www.gobankingrates.com/money/wealth/power-of-compound-interest-secrets-to-long-term-wealth-building/",
+      "ranks": {
+        "duckduckgo": 4
+      }
+    },
+    {
+      "url": "https://facebook.com/CharlesSchwab/videos/understand-the-power-of-compound-interest-and-why-beginning-early-is-crucial/1114735974399776",
+      "title": "Compound Interest Explained: Why Starting Early Matters",
+      "snippet": "The core message is that investing in a long-term perspective, such as 10,000e, can lead to significant changes in the final amount of money ...",
+      "link": "https://www.facebook.com/CharlesSchwab/videos/understand-the-power-of-compound-interest-and-why-beginning-early-is-crucial/1114735974399776/",
+      "ranks": {
+        "google": 5
+      }
+    },
+    {
+      "url": "https://moneysmartinsights.com/compound-interest-long-term-wealth",
+      "title": "Understanding Compound Interest: The Key to Long-Term Wealth",
+      "snippet": "If you're seeking to accelerate your investment growth and master personal finance basics, understanding how compound interest works is essential. In this article, you'll learn what compound interest is, why it matters, and practical strategies to harness its power for long-term wealth in 2026 and beyond.",
+      "link": "https://moneysmartinsights.com/compound-interest-long-term-wealth/",
+      "ranks": {
+        "duckduckgo": 5
+      }
+    },
+    {
+      "url": "https://edvisors.com/money-management/financial-fluency/compound-interest",
+      "title": "What is Compound Interest and Why It Matters",
+      "snippet": "Starting sooner rather than later can profoundly impact your wealth accumulation due to the exponential growth compound interest provides.",
+      "link": "https://www.edvisors.com/money-management/financial-fluency/compound-interest/",
+      "ranks": {
+        "google": 6
+      }
+    },
+    {
+      "url": "https://sp500calc.com/compound-interest-explained.html",
+      "title": "Compound Interest Explained: The Math Behind Long-Term Wealth",
+      "snippet": "Learn how compound interest works, why it's the most powerful force in investing, and how to use it to build long-term wealth. Includes real examples and calculations.",
+      "link": "https://sp500calc.com/compound-interest-explained.html",
+      "ranks": {
+        "duckduckgo": 6
+      }
+    },
+    {
+      "url": "https://harvardfcu.org/blog/what-is-compound-interest",
+      "title": "What Is Compound Interest?",
+      "snippet": "The longer you leave your money to compound, the greater the growth potential. This makes it especially valuable when saving for long-term goals ...",
+      "link": "https://harvardfcu.org/blog/what-is-compound-interest/",
+      "ranks": {
+        "google": 7
+      }
+    },
+    {
+      "url": "https://locatemywealth.com/blog/compound-interest-explained",
+      "title": "Compound Interest Explained | How It Builds Long-Term Wealth ...",
+      "snippet": "Compound interest is the process of earning returns on your returns. Unlike simple interest, which only grows based on your original investment, compound interest grows on the ever-increasing total\u2014creating an exponential growth curve that accelerates over time.",
+      "link": "https://www.locatemywealth.com/blog/compound-interest-explained",
+      "ranks": {
+        "duckduckgo": 7
+      }
+    }
+  ],
+  "Why do bond prices fall when interest rates rise?": [
+    {
+      "url": "https://investopedia.com/ask/answers/why-interest-rates-have-inverse-relationship-bond-prices",
+      "title": "Inverse Relation Between Interest Rates and Bond Prices",
+      "snippet": "Bond prices typically rise when interest rates drop. Rates can drop because of market forces or because of policy decisions, such as the Federal Reserve ...",
+      "link": "https://www.investopedia.com/ask/answers/why-interest-rates-have-inverse-relationship-bond-prices/",
+      "ranks": {
+        "google": 1,
+        "duckduckgo": 2
+      }
+    },
+    {
+      "url": "https://gate.com/learn/articles/why-bond-prices-fall-when-interest-rates-rise",
+      "title": "Why Do Bond Prices Fall When Interest Rates Rise?",
+      "snippet": "Learn why bond prices and interest rates move inversely. Understand how market yields affect fixed-rate bonds, duration, and the mechanics of bond valuation.",
+      "link": "https://www.gate.com/learn/articles/why-bond-prices-fall-when-interest-rates-rise",
+      "ranks": {
+        "duckduckgo": 1
+      }
+    },
+    {
+      "url": "https://reddit.com/r/AskEconomics/comments/1or6c1a/why_is_there_an_inverse_relationship_with",
+      "title": "Why is there an inverse relationship with interest rates and ...",
+      "snippet": "When interest rates increases bond prices goes down, and vice versa, when interest rates go down, bond prices go up - can someone explain this clearly ...",
+      "link": "https://www.reddit.com/r/AskEconomics/comments/1or6c1a/why_is_there_an_inverse_relationship_with/",
+      "ranks": {
+        "google": 2
+      }
+    },
+    {
+      "url": "https://sec.gov/files/ib_interestraterisk.pdf",
+      "title": "When Interest rates Go up, Prices of Fixed-rate Bonds Fall",
+      "snippet": "A fundamental principle of bond investing is that market interest rates and bond prices generally move in opposite directions. When market interest rates rise, ...",
+      "link": "https://www.sec.gov/files/ib_interestraterisk.pdf",
+      "ranks": {
+        "google": 3
+      }
+    },
+    {
+      "url": "https://bluechippartners.com/blog/why-do-bond-prices-fall-when-interest-rates-rise",
+      "title": "Why Do Bond Prices Fall When Interest Rates Rise?",
+      "snippet": "When interest rates rise, existing bond prices typically fall because newer bonds may offer higher yields. Learn how bond prices, yields, and interest rates work together.",
+      "link": "https://www.bluechippartners.com/blog/why-do-bond-prices-fall-when-interest-rates-rise/",
+      "ranks": {
+        "duckduckgo": 3
+      }
+    },
+    {
+      "url": "https://pimco.com/us/en/resources/education/bonds-102-understanding-how-interest-rates-affect-bond-performance",
+      "title": "Bonds 102: Understanding how Interest Rates Affect ...",
+      "snippet": "Bond prices have an inverse relationship with interest rates. This means that when interest rates go up, bond prices go down and when interest rates go down, ...",
+      "link": "https://www.pimco.com/us/en/resources/education/bonds-102-understanding-how-interest-rates-affect-bond-performance",
+      "ranks": {
+        "google": 4
+      }
+    },
+    {
+      "url": "https://landmarkwealthmgmt.com/articles/why-bond-prices-fall-when-interest-rates-rise-and-vice-versa",
+      "title": "Why Bond Prices Fall When Interest Rates Rise (And Vice Versa)",
+      "snippet": "One of the most fundamental concepts in fixed income investing is that bond prices and interest rates have an inverse relationship. When interest rates rise, bond prices fall.",
+      "link": "https://landmarkwealthmgmt.com/articles/why-bond-prices-fall-when-interest-rates-rise-and-vice-versa/",
+      "ranks": {
+        "duckduckgo": 4
+      }
+    },
+    {
+      "url": "https://schwab.com/learn/story/what-happens-to-bonds-when-interest-rates-rise",
+      "title": "What Happens to Bonds When Interest Rates Rise?",
+      "snippet": "when interest rates fall, bond prices typically rise so there may be an opportunity to profit if an investor sells their bond before maturity.",
+      "link": "https://www.schwab.com/learn/story/what-happens-to-bonds-when-interest-rates-rise",
+      "ranks": {
+        "google": 5,
+        "duckduckgo": 6
+      }
+    },
+    {
+      "url": "https://investopedia.com/articles/bonds/07/price_yield.asp",
+      "title": "Understanding the Inverse Relationship of Bond Prices and Yields",
+      "snippet": "Learn why bond prices and yields move inversely and how interest rates, inflation, and market trends affect these dynamics. Discover implications for investors.",
+      "link": "https://www.investopedia.com/articles/bonds/07/price_yield.asp",
+      "ranks": {
+        "duckduckgo": 5
+      }
+    },
+    {
+      "url": "https://hartfordfunds.com/practice-management/client-conversations/managing-volatility/how-changing-interest-rates-affect-bond-prices.html",
+      "title": "How Changing Interest Rates Affect Bond Prices",
+      "snippet": "Bond prices and interest rates have an inverse relationship: When interest rates rise, bond prices fall and vice versa\u2014just like a see saw. Higher interest ...",
+      "link": "https://www.hartfordfunds.com/practice-management/client-conversations/managing-volatility/how-changing-interest-rates-affect-bond-prices.html",
+      "ranks": {
+        "google": 6
+      }
+    },
+    {
+      "url": "https://usbank.com/investing/financial-perspectives/market-news/interest-rates-affect-bonds.html",
+      "title": "How changing interest rates impact the bond market",
+      "snippet": "When market yields rise, existing bonds with lower fixed payments become less attractive, so their prices generally fall.",
+      "link": "https://www.usbank.com/investing/financial-perspectives/market-news/interest-rates-affect-bonds.html",
+      "ranks": {
+        "google": 7
+      }
+    },
+    {
+      "url": "https://financetreat.com/investing-why-bond-prices-fall-when-interest-rates-rise",
+      "title": "Why Bond Prices Fall When Interest Rates Rise - Finance Treat",
+      "snippet": "When market interest rates rise, the price of an existing fixed-rate bond generally falls, and when rates fall, the price generally rises. This article explains why, using the United States Treasury market and the US Securities and Exchange Commission's (SEC) own teaching examples, and shows how maturity changes the size of the effect. What is a bond actually promising? A bond is a loan. The ...",
+      "link": "https://financetreat.com/investing-why-bond-prices-fall-when-interest-rates-rise/",
+      "ranks": {
+        "duckduckgo": 7
+      }
+    }
+  ],
+  "How does the stock market determine the price of a share?": [
+    {
+      "url": "https://reddit.com/r/explainlikeimfive/comments/yjikcf/eli5_how_is_the_price_of_a_stock_determined",
+      "title": "ELI5: How is the price of a stock determined",
+      "snippet": "How is the price that everyone sees determined? Is it some central organization that determines the price based on some factors or does the company dictate ...",
+      "link": "https://www.reddit.com/r/explainlikeimfive/comments/yjikcf/eli5_how_is_the_price_of_a_stock_determined/",
+      "ranks": {
+        "google": 1
+      }
+    },
+    {
+      "url": "https://investopedia.com/ask/answers/how-companys-stock-price-and-market-cap-determined",
+      "title": "Understanding Stock Price and Market Cap: An Investor's ...",
+      "snippet": "Once a company goes public and its shares start trading on a stock exchange, its share price is determined by supply and demand in the market. If there is a ...",
+      "link": "https://www.investopedia.com/ask/answers/how-companys-stock-price-and-market-cap-determined/",
+      "ranks": {
+        "google": 2,
+        "duckduckgo": 1
+      }
+    },
+    {
+      "url": "https://fool.com/investing/how-to-invest/stocks/how-are-stock-prices-determined",
+      "title": "How Are Stock Prices Determined?",
+      "snippet": "Once a company goes public on the stock market and its shares start trading on an exchange, the share price is determined by supply and demand.",
+      "link": "https://www.fool.com/investing/how-to-invest/stocks/how-are-stock-prices-determined/",
+      "ranks": {
+        "google": 6,
+        "duckduckgo": 2
+      }
+    },
+    {
+      "url": "https://live.deutsche-boerse.com/en/first-steps-alt/the-share-price-is-determined-as-follows",
+      "title": "The share price is determined as follows",
+      "snippet": "Stock prices are calculated by the trading system on the basis of existing buy and sell orders. Basically, the share price consists of the relationship between ...",
+      "link": "https://live.deutsche-boerse.com/en/first-steps-alt/the-share-price-is-determined-as-follows",
+      "ranks": {
+        "google": 3
+      }
+    },
+    {
+      "url": "https://upcounsel.com/who-sets-stock-prices",
+      "title": "Who Sets Stock Prices and How They Change - UpCounsel",
+      "snippet": "Discover who sets stock prices, how supply and demand, IPOs, sentiment, and economic factors influence them, and what drives market value shifts.",
+      "link": "https://www.upcounsel.com/who-sets-stock-prices",
+      "ranks": {
+        "duckduckgo": 3
+      }
+    },
+    {
+      "url": "https://youtube.com/watch?v=FW6W1P1GWNc",
+      "title": "Where Do Stock Prices Come From? | Comment Below",
+      "snippet": "We'll explore how a stock's price is set initially, why it changes, and more. ... How Stock Prices Are Set (Stock Market for Beginners). Martik ...",
+      "link": "https://www.youtube.com/watch?v=FW6W1P1GWNc",
+      "ranks": {
+        "google": 4
+      }
+    },
+    {
+      "url": "https://investopedia.com/articles/basics/04/100804.asp",
+      "title": "Factors That Move Stock Prices Up and Down - Investopedia",
+      "snippet": "Discover what drives stock prices, including fundamental, technical, and market sentiment factors, to better understand and anticipate market movements.",
+      "link": "https://www.investopedia.com/articles/basics/04/100804.asp",
+      "ranks": {
+        "duckduckgo": 4
+      }
+    },
+    {
+      "url": "https://disnat.com/en/learning/trading-basics/stock-basics/what-causes-stock-prices-to-change",
+      "title": "What Causes Stock Prices to Change?",
+      "snippet": "At the most fundamental level, supply and demand in the market determine stock price. Price times the number of shares outstanding (market capitalization) is ...",
+      "link": "https://www.disnat.com/en/learning/trading-basics/stock-basics/what-causes-stock-prices-to-change",
+      "ranks": {
+        "google": 5
+      }
+    },
+    {
+      "url": "https://stash.com/learn/understanding-stock-price",
+      "title": "How Are Stock Prices Determined? | Stash Learn",
+      "snippet": "Stock prices rise and fall based on agreements buyers and sellers make with each other. Learn about the factors that determine stock prices.",
+      "link": "https://www.stash.com/learn/understanding-stock-price/",
+      "ranks": {
+        "duckduckgo": 5
+      }
+    },
+    {
+      "url": "https://bajajfinservmarkets.in/stocks/how-are-stock-prices-determined",
+      "title": "How Are Stock Prices Determined? Factors and Process",
+      "snippet": "Stock prices are a reflection of the dynamic interaction between various market forces and investor sentiments. Understanding how these prices are determined is crucial for anyone interested in investing or learning about financial markets. This comprehensive guide explores the mechanisms behind price discovery, the economic and psychological factors affecting stock prices, and the broader ...",
+      "link": "https://www.bajajfinservmarkets.in/stocks/how-are-stock-prices-determined",
+      "ranks": {
+        "duckduckgo": 6
+      }
+    },
+    {
+      "url": "https://kundankishore.in/blog/how-does-the-stock-market-work-who-decides-the-price-of-stocks",
+      "title": "How does the stock market work? Who decides the price of ...",
+      "snippet": "Stock exchanges like BSE and NSE have computer algorithms that determine the price of stocks on the basis of volume traded and these prices change at a very ...",
+      "link": "https://www.kundankishore.in/blog/how-does-the-stock-market-work-who-decides-the-price-of-stocks",
+      "ranks": {
+        "google": 7
+      }
+    },
+    {
+      "url": "https://seekingalpha.com/article/4452881-how-stock-prices-are-determined",
+      "title": "How Stock Prices Are Determined By Transactions - Seeking Alpha",
+      "snippet": "Investors buying and selling shares determine stock prices. When analyzing markets, economists refer to the supply and demand for a stock as moving prices. Learn about more factors.",
+      "link": "https://seekingalpha.com/article/4452881-how-stock-prices-are-determined",
+      "ranks": {
+        "duckduckgo": 7
+      }
+    }
+  ],
+  "How does a lithium-ion battery store and release energy?": [
+    {
+      "url": "https://energy.gov/science/doe-explainsbatteries",
+      "title": "DOE Explains...Batteries",
+      "snippet": "Once charged, the battery can be disconnected from the circuit to store the chemical potential energy for later use as electricity. Batteries ...",
+      "link": "https://www.energy.gov/science/doe-explainsbatteries",
+      "ranks": {
+        "google": 1
+      }
+    },
+    {
+      "url": "https://energy.sustainability-directory.com/learn/how-does-a-lithium-ion-battery-store-and-release-electrical-energy",
+      "title": "How Does a Lithium-Ion Battery Store and Release Electrical Energy?",
+      "snippet": "A lithium-ion battery stores energy through the movement of lithium ions between two electrodes: the cathode and the anode. During charging, lithium ions move from the cathode through an electrolyte to the anode. When discharging (releasing energy), the ions move back to the cathode, and electrons flow through an external circuit to power the load. This reversible chemical reaction defines the ...",
+      "link": "https://energy.sustainability-directory.com/learn/how-does-a-lithium-ion-battery-store-and-release-electrical-energy/",
+      "ranks": {
+        "duckduckgo": 1
+      }
+    },
+    {
+      "url": "https://cei.washington.edu/research/energy-storage/lithium-ion-battery",
+      "title": "Lithium-Ion Battery - Clean Energy Institute",
+      "snippet": "Lithium ions are stored within graphite anodes through a mechanism known as intercalation, in which the ions are physically inserted between the 2D layers of ...",
+      "link": "https://www.cei.washington.edu/research/energy-storage/lithium-ion-battery/",
+      "ranks": {
+        "google": 2
+      }
+    },
+    {
+      "url": "https://youtube.com/watch?v=L85OWWKAa8A",
+      "title": "How Does a Lithium-Ion Battery Store and Release Energy?",
+      "snippet": "This video follows the lithium ions inside the cell and the electrons in the external circuit, one operating state at a time (discharging, then charging), and ends with energy density versus power ...",
+      "link": "https://www.youtube.com/watch?v=L85OWWKAa8A",
+      "ranks": {
+        "duckduckgo": 2
+      }
+    },
+    {
+      "url": "https://reddit.com/r/explainlikeimfive/comments/kdoisb/eli5_how_do_lithium_batteries_and_other_modern",
+      "title": "ELI5: How do Lithium Batteries and other modern forms of ...",
+      "snippet": "What happens in a lithium battery in particular is that when you charge it, energy is applied into the battery, which ionizes the lithium metal ...",
+      "link": "https://www.reddit.com/r/explainlikeimfive/comments/kdoisb/eli5_how_do_lithium_batteries_and_other_modern/",
+      "ranks": {
+        "google": 3
+      }
+    },
+    {
+      "url": "https://energy.sustainability-directory.com/learn/how-do-lithium-ion-batteries-store-and-release-energy",
+      "title": "How Do Lithium-Ion Batteries Store and Release Energy?",
+      "snippet": "Lithium-ion batteries store energy through a chemical process involving the movement of lithium ions. During charging, an external power source applies a voltage, causing lithium ions to move from the positive electrode (cathode) to the negative electrode (anode), where they are stored. The energy is stored in the chemical bonds of the anode material. When the battery is discharged, the ...",
+      "link": "https://energy.sustainability-directory.com/learn/how-do-lithium-ion-batteries-store-and-release-energy/",
+      "ranks": {
+        "duckduckgo": 3
+      }
+    },
+    {
+      "url": "https://bluecarbon.solar/how-lithium-batteries-store-and-release-energy",
+      "title": "How Lithium Batteries Store and Release Energy",
+      "snippet": "Lithium batteries store energy through controlled lithium-ion movement and release power through a stable electrical flow. Their efficiency, ...",
+      "link": "https://bluecarbon.solar/how-lithium-batteries-store-and-release-energy/",
+      "ranks": {
+        "google": 4,
+        "duckduckgo": 7
+      }
+    },
+    {
+      "url": "https://lithiplus.com/post/lithium-ion-battery-how-it-works-the-science-behind-modern-energy-storage",
+      "title": "Lithium Ion Battery How It Works: The Science Behind Modern Energy Storage",
+      "snippet": "Learn lithium ion battery how it works \u2014 from the internal chemistry and structure to charging, discharging, and safety features. Discover how these powerful energy systems drive modern technology.",
+      "link": "https://www.lithiplus.com/post/lithium-ion-battery-how-it-works-the-science-behind-modern-energy-storage",
+      "ranks": {
+        "duckduckgo": 4
+      }
+    },
+    {
+      "url": "https://pubs.rsc.org/cp/article/26/36/24157/842781/How-lithium-ion-batteries-work-conceptually",
+      "title": "How lithium-ion batteries work conceptually",
+      "snippet": "The hallmark of a working lithium-ion battery is the release of electrical energy due to the spontaneous movement of lithium ions and electrons ...",
+      "link": "https://pubs.rsc.org/cp/article/26/36/24157/842781/How-lithium-ion-batteries-work-conceptually",
+      "ranks": {
+        "google": 5
+      }
+    },
+    {
+      "url": "https://thebatterytips.com/battery-specifications/how-does-a-lithium-ion-battery-work-chemistry",
+      "title": "Lithium-Ion Battery Chemistry: How It Works And Key Fundamentals ...",
+      "snippet": "A lithium-ion battery works through a chemical reaction for energy storage. During charging, lithium ions move from the anode to the cathode via an electrolyte. Electrons move in the opposite direction, creating a charge. During discharge, lithium ions return to the anode, releasing energy that powers devices. Key fundamentals of lithium-ion battery chemistry include charge and discharge ...",
+      "link": "https://thebatterytips.com/battery-specifications/how-does-a-lithium-ion-battery-work-chemistry/",
+      "ranks": {
+        "duckduckgo": 5
+      }
+    },
+    {
+      "url": "https://dragonflyenergy.com/how-lithium-ion-battery-works",
+      "title": "Battery 101: The Fundamentals of How a Lithium-Ion ...",
+      "snippet": "When the battery is connected to a charger, a chemical reaction takes place involving the LiFePO4 on the cathode. This chemical reaction causes ...",
+      "link": "https://dragonflyenergy.com/how-lithium-ion-battery-works/",
+      "ranks": {
+        "google": 6
+      }
+    },
+    {
+      "url": "https://electres.com/how-do-lithium-ion-batteries-work-and-store-energy",
+      "title": "How Do Lithium-Ion Batteries Work and Store Energy?",
+      "snippet": "A lithium-ion battery stores electrical energy as chemical potential energy and releases it as electricity through a reversible electrochemical process. During operation, lithium ions move through the electrolyte inside the cell, while electrons move through an external electrical circuit. During charging, electrical energy drives the process in one direction. During discharge, the process ...",
+      "link": "https://electres.com/how-do-lithium-ion-batteries-work-and-store-energy/",
+      "ranks": {
+        "duckduckgo": 6
+      }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lithium-ion_battery",
+      "title": "Lithium-ion battery",
+      "snippet": "uses the reversible intercalation of lithium ions (Li +) into electronically conducting solids to store energy. To charge the cell the external circuit has to ...",
+      "link": "https://en.wikipedia.org/wiki/Lithium-ion_battery",
+      "ranks": {
+        "google": 7
+      }
+    }
+  ],
+  "Why does global warming cause sea levels to rise?": [
+    {
+      "url": "https://climate.gov/news-features/understanding-climate/climate-change-global-sea-level",
+      "title": "Climate Change: Global Sea Level",
+      "snippet": "First, glaciers and ice sheets worldwide are melting and adding water to the ocean. Second, the volume of the ocean is expanding as the water warms. A third, ...",
+      "link": "https://www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level",
+      "ranks": {
+        "google": 1
+      }
+    },
+    {
+      "url": "https://sealevel.nasa.gov/sea-level-101/global-sea-level-rise/the-basics",
+      "title": "The Basics | Global Sea Level Rise",
+      "snippet": "When water warms, it expands and takes up more space. This causes the water to rise along the coastline. Currently, about one third (around 33%) of global sea ...",
+      "link": "https://sealevel.nasa.gov/sea-level-101/global-sea-level-rise/the-basics/",
+      "ranks": {
+        "google": 3,
+        "duckduckgo": 1
+      }
+    },
+    {
+      "url": "https://earth.gov/sealevel/about-sea-level-change/global-sea-level-rise/the-basics",
+      "title": "Why is Global Sea Level Rising?",
+      "snippet": "When water warms, it expands and takes up more space. This causes the water to rise along the coastline. Currently, about one third (around 33%) of global sea ...",
+      "link": "https://earth.gov/sealevel/about-sea-level-change/global-sea-level-rise/the-basics/",
+      "ranks": {
+        "google": 2,
+        "duckduckgo": 2
+      }
+    },
+    {
+      "url": "https://earth.org/sea-level-rise",
+      "title": "Explainer: What Causes the Sea Level to Rise?",
+      "snippet": "The Earth is getting warmer primarily due to the accumulation of heat-trapping greenhouse gases, 90% of which are absorbed by the oceans. As the ...",
+      "link": "https://earth.org/sea-level-rise/",
+      "ranks": {
+        "google": 7,
+        "duckduckgo": 3
+      }
+    },
+    {
+      "url": "https://oceanservice.noaa.gov/facts/sealevelclimate.html",
+      "title": "How is sea level rise related to climate change?",
+      "snippet": "A warming climate can cause seawater to expand and ice over land to melt, both of which can cause a rise in sea level.",
+      "link": "https://oceanservice.noaa.gov/facts/sealevelclimate.html",
+      "ranks": {
+        "google": 4,
+        "duckduckgo": 4
+      }
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3758961",
+      "title": "Sea-level rise caused by climate change and its implications ...",
+      "snippet": "Increased heat storage raises the water temperature, resulting in thermal expansion of sea water. Therefore, the ocean heat storage is a major factor for the ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3758961/",
+      "ranks": {
+        "google": 5
+      }
+    },
+    {
+      "url": "https://climate.mit.edu/explainers/sea-level-rise",
+      "title": "Sea Level Rise - MIT Climate Portal",
+      "snippet": "Sea levels around the world are rising because of climate change, as warming ocean waters and melting ice cause the oceans to encroach on the world's coasts.",
+      "link": "https://climate.mit.edu/explainers/sea-level-rise",
+      "ranks": {
+        "duckduckgo": 5
+      }
+    },
+    {
+      "url": "https://whoi.edu/ocean-learning-hub/ocean-topics/climate-weather/sea-level-rise",
+      "title": "Sea level rise",
+      "snippet": "Sea level rise is an increase in the ocean's surface height relative to the land, fed largely by thermal expansion of warming water and by melting land ice.",
+      "link": "https://www.whoi.edu/ocean-learning-hub/ocean-topics/climate-weather/sea-level-rise/",
+      "ranks": {
+        "google": 6
+      }
+    },
+    {
+      "url": "https://earth.gov/sealevel/faq/70/what-causes-sea-level-rise",
+      "title": "What causes sea level rise? - Global Sea Level Change",
+      "snippet": "Explore global sea level rise with interactive maps using IPCC AR6 projection data. Learn about sea level rise causes, effects, impacts, and solutions.",
+      "link": "https://earth.gov/sealevel/faq/70/what-causes-sea-level-rise/",
+      "ranks": {
+        "duckduckgo": 6
+      }
+    },
+    {
+      "url": "https://sealevel.nasa.gov/faq/12/what-causes-sea-level-rise",
+      "title": "What causes sea-level rise? - NASA Sea Level Change Portal",
+      "snippet": "What causes sea-level rise? Most of the observed sea-level rise (about 3 mm per year) is coming from the meltwater of land-based ice sheets and mountain glaciers, which adds to the ocean's volume (about 2 mm per year combined), and from thermal expansion, or the ocean water's expansion as it warms (roughly 1 mm per year).",
+      "link": "https://sealevel.nasa.gov/faq/12/what-causes-sea-level-rise/",
+      "ranks": {
+        "duckduckgo": 7
+      }
+    }
+  ],
+  "How does the human immune system fight viral infections?": [
+    {
+      "url": "https://learn.hms.harvard.edu/how-body-reacts-viruses",
+      "title": "How The Body Reacts To Viruses",
+      "snippet": "The human immune system ... T cells form the basis of cellular immunity and can very specifically kill cells that have been infected by viruses.",
+      "link": "https://learn.hms.harvard.edu/how-body-reacts-viruses",
+      "ranks": {
+        "google": 1,
+        "duckduckgo": 2
+      }
+    },
+    {
+      "url": "https://webmd.com/cold-and-flu/immune-system-fight-infection",
+      "title": "How Your Immune System Fights Infection",
+      "snippet": "Your white blood cells lock onto the germs in order to absorb or destroy them. They produce antibodies that latch onto the germs. Experience makes your immune ...",
+      "link": "https://www.webmd.com/cold-and-flu/immune-system-fight-infection",
+      "ranks": {
+        "google": 5,
+        "duckduckgo": 1
+      }
+    },
+    {
+      "url": "https://immunology.org/public-information/bitesized-immunology/pathogens-disease/immune-responses-viruses",
+      "title": "Immune responses to viruses",
+      "snippet": "Via interferons. Virally infected cells produce and release small proteins called interferons, which play a role in immune protection against viruses.",
+      "link": "https://www.immunology.org/public-information/bitesized-immunology/pathogens-disease/immune-responses-viruses",
+      "ranks": {
+        "google": 2
+      }
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7151814",
+      "title": "Immune responses to viruses - PMC",
+      "snippet": "Innate immunity generally serves to slow, rather than stop, viral infection, allowing time for the adaptive immune response to begin. Antibodies usually ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7151814/",
+      "ranks": {
+        "google": 3
+      }
+    },
+    {
+      "url": "https://distance.physiology.med.ufl.edu/about/articles/physiology/how-does-the-immune-system-fight-pathogens",
+      "title": "How Does the Immune System Fight Pathogens? An Immunophysiology Guide",
+      "snippet": "The immune system works like a well-honed army, protecting your body against harmful pathogens such as viruses, bacteria, fungi and parasites. This intricate system incorporates specialized cells, proteins and organs that work together to detect and eliminate invaders, while also maintaining a memory of past infections for future protection.",
+      "link": "https://distance.physiology.med.ufl.edu/about/articles/physiology/how-does-the-immune-system-fight-pathogens/",
+      "ranks": {
+        "duckduckgo": 3
+      }
+    },
+    {
+      "url": "https://open.edu/openlearn/science-maths-technology/biology/how-does-the-human-body-fight-viral-infection",
+      "title": "How does the human body fight a viral infection?",
+      "snippet": "In order to control the infection, the immune system must both destroy virus-infected cells and prevent the spread of virus between cells.",
+      "link": "https://www.open.edu/openlearn/science-maths-technology/biology/how-does-the-human-body-fight-viral-infection",
+      "ranks": {
+        "google": 4
+      }
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8849188",
+      "title": "Immune Response to Viruses - PMC",
+      "snippet": "In this chapter we will discuss the above components of the immune system in relation to viral infections. Specifically, how we recognise and respond to viral infections, and ways in which viruses have evolved to try to avoid the host immune system.",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8849188/",
+      "ranks": {
+        "duckduckgo": 4
+      }
+    },
+    {
+      "url": "https://sciencedirect.com/science/article/pii/S1472029924000699",
+      "title": "Immune response to infection - ScienceDirect",
+      "snippet": "The immune system is vital to the body's defence against bacterial, viral and fungal pathogens. An initial defence is provided by the innate immune system. The body's physical barriers are the first line of defence. If these barriers are breached a complex series of chemical, molecular and cellular interactions come into play to protect the body from further assault and tissue damage. Further ...",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1472029924000699",
+      "ranks": {
+        "duckduckgo": 5
+      }
+    },
+    {
+      "url": "https://betterhealth.vic.gov.au/health/conditionsandtreatments/immune-system",
+      "title": "Immune system explained",
+      "snippet": "The immune system is a complex network of organs, cells and proteins that defends the body against infection, whilst protecting the body's own cells.",
+      "link": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/immune-system",
+      "ranks": {
+        "google": 6
+      }
+    },
+    {
+      "url": "https://scienceunlock.com/how-does-the-immune-system-fight-viruses",
+      "title": "How Does the Immune System Fight Viruses? Explained Simply",
+      "snippet": "The immune system is always active, fighting off viruses silently in the background, often without us even noticing. In this complete guide, we will explore how the immune system fights viruses, step by step\u2014from the first barriers to the creation of antibodies and memory cells.",
+      "link": "https://scienceunlock.com/how-does-the-immune-system-fight-viruses/",
+      "ranks": {
+        "duckduckgo": 6
+      }
+    },
+    {
+      "url": "https://biomerieux.com/corp/en/blog/infectious-diseases/how-our-immune-system-works-to-fight-viruses.html",
+      "title": "How Our Immune System Works to Fight Viruses - bioMerieux",
+      "snippet": "Immunity to infections occurs when each part of your body's immune system responds effectively to a pathogen and then retains the memory to fight off",
+      "link": "https://www.biomerieux.com/corp/en/blog/infectious-diseases/how-our-immune-system-works-to-fight-viruses.html",
+      "ranks": {
+        "google": 7
+      }
+    },
+    {
+      "url": "https://scienceabc.com/pure-sciences/how-does-our-body-fight-viruses",
+      "title": "How Does Our Body Fight Viruses? \u00bb ScienceABC",
+      "snippet": "How does the body fight viruses? The immune system first uses interferons and natural killer cells to stop viruses spreading, then T-cells and antibodies to destroy them.",
+      "link": "https://www.scienceabc.com/pure-sciences/how-does-our-body-fight-viruses",
+      "ranks": {
+        "duckduckgo": 7
+      }
+    }
+  ],
+  "Why do search engines sometimes return irrelevant results?": [
+    {
+      "url": "https://support.google.com/websearch/thread/203946908/how-do-i-clear-all-these-irrelevant-searches-keep-getting-popular-searches-not-just-mine?hl=en",
+      "title": "How do I clear all these irrelevant searches? Keep getting ...",
+      "snippet": "Clear your browser history and cache: This will delete your browsing history and saved data from websites you've visited, which can sometimes ...",
+      "link": "https://support.google.com/websearch/thread/203946908/how-do-i-clear-all-these-irrelevant-searches-keep-getting-popular-searches-not-just-mine?hl=en",
+      "ranks": {
+        "google": 1
+      }
+    },
+    {
+      "url": "https://whitelabelcoders.com/blog/why-does-my-search-functionality-return-irrelevant-results",
+      "title": "Why does my search functionality return irrelevant results?",
+      "snippet": "Learn why search functionality returns irrelevant results due to poor algorithms, indexing issues, and mismatched parameters. Fix your search problems today.",
+      "link": "https://whitelabelcoders.com/blog/why-does-my-search-functionality-return-irrelevant-results/",
+      "ranks": {
+        "duckduckgo": 1
+      }
+    },
+    {
+      "url": "https://moz.com/blog/7-reasons-why-search-engines-dont-return-relevant-results-100-of-the-time",
+      "title": "7 Reasons Why Search Engines Don't Return Relevant ...",
+      "snippet": "Quality raters can select the documents that are most relevant to the search, and that information can be used to refine the original search and ...",
+      "link": "https://moz.com/blog/7-reasons-why-search-engines-dont-return-relevant-results-100-of-the-time",
+      "ranks": {
+        "google": 2
+      }
+    },
+    {
+      "url": "https://isu.libguides.com/commonsearchproblems/notrelevant",
+      "title": "Search Help: Common Search Problems: My results are not relevant",
+      "snippet": "Here are some techniques that will help you handle a search that is finding too many irrelevant results: Sort your results so that the best stuff comes to the top. Review your results to figure out if there's a common theme to the irrelevant stuff that keeps popping up. Do more background research on your topic to make sure you know the jargon that is often used in your discipline. Try a ...",
+      "link": "https://isu.libguides.com/commonsearchproblems/notrelevant",
+      "ranks": {
+        "duckduckgo": 2
+      }
+    },
+    {
+      "url": "https://reddit.com/r/google/comments/scrl7v/googles_search_results_have_drastically_decreased",
+      "title": "Google's search results have drastically decreased in ...",
+      "snippet": "They seem to be relying more heavily on individual keywords and not on the entire sentence and it is not working.",
+      "link": "https://www.reddit.com/r/google/comments/scrl7v/googles_search_results_have_drastically_decreased/",
+      "ranks": {
+        "google": 3
+      }
+    },
+    {
+      "url": "https://searchenginecage.com/blog/why-google-search-results-getting-worse",
+      "title": "21 Reasons Why Google Search Results Getting Worse",
+      "snippet": "Why do I get irrelevant results even with specific queries? Google might misunderstand query intent, especially with complex or ambiguous searches, or results might be influenced by SEO tactics that don't align with user intent. Does Google prioritize newer content over older, possibly more accurate content?",
+      "link": "https://searchenginecage.com/blog/why-google-search-results-getting-worse/",
+      "ranks": {
+        "duckduckgo": 3
+      }
+    },
+    {
+      "url": "https://facebook.com/groups/ninja.flip.air.fryer.oven/posts/1837434561000221",
+      "title": "Why do I get irrelevant search results?",
+      "snippet": "When I search I keep getting the same posts over and over and not even relevant to what I\u2019m searching, any tips?",
+      "link": "https://www.facebook.com/groups/ninja.flip.air.fryer.oven/posts/1837434561000221/",
+      "ranks": {
+        "google": 4
+      }
+    },
+    {
+      "url": "https://reddit.com/r/NoStupidQuestions/comments/y6hmzk/is_it_just_me_or_are_search_engine_results",
+      "title": "Is it just me, or are search engine results returning ... - Reddit",
+      "snippet": "Edit: I have since found char gpt to return exceptionally relevant and helpful answers. Since making this post, I've noticed a massive decline in search engine results. I use DuckDuckGo and there is no difference with Google, Bing, etc. It's like my keywords are not even being considered anymore. I feel like they're using an AI to consolidate my sentence and return the most popular results.",
+      "link": "https://www.reddit.com/r/NoStupidQuestions/comments/y6hmzk/is_it_just_me_or_are_search_engine_results/",
+      "ranks": {
+        "duckduckgo": 4
+      }
+    },
+    {
+      "url": "https://facebook.com/MrBasharGulumbe/posts/google-search-shows-irrelevant-results-very-oftenbut-those-days-are-over5-google/122139050510053141",
+      "title": "Google Search shows irrelevant results very often! But ...",
+      "snippet": "Every search you make on google will always bring you millions of results but most of these may not be relevant to what you are looking for. A ...",
+      "link": "https://www.facebook.com/MrBasharGulumbe/posts/google-search-shows-irrelevant-results-very-oftenbut-those-days-are-over5-google/122139050510053141/",
+      "ranks": {
+        "google": 5
+      }
+    },
+    {
+      "url": "https://reddit.com/r/searchengines/comments/zy2y93/why_does_google_show_results_that_have_nothing_to",
+      "title": "Why Does Google Show Results That Have Nothing to do with What is ...",
+      "snippet": "I think only like 50% of my google or YouTube (YT is esp bad about this) search results are about my search query. The rest is all \"previously searched/watched\", \"things you might like\", \"things other people searched/watched\", ads, some things related to previous searches, etc \u2026 It's really gone downhill.",
+      "link": "https://www.reddit.com/r/searchengines/comments/zy2y93/why_does_google_show_results_that_have_nothing_to/",
+      "ranks": {
+        "duckduckgo": 5
+      }
+    },
+    {
+      "url": "https://quora.com/What-could-be-the-reasons-for-not-finding-relevant-and-accurate-results-in-Google-Search-Engine",
+      "title": "What could be the reasons for not finding relevant and ...",
+      "snippet": "When your website's content words don't match Google's list of popular keywords or your website's keywords aren't specific enough your ...",
+      "link": "https://www.quora.com/What-could-be-the-reasons-for-not-finding-relevant-and-accurate-results-in-Google-Search-Engine",
+      "ranks": {
+        "google": 6
+      }
+    },
+    {
+      "url": "https://medium.com/@rahul.balakavi/why-does-my-search-engine-return-poor-results-31488a780ce7",
+      "title": "Why does my search-engine return poor results? - Medium",
+      "snippet": "Now going back to the original question \u2014 Why does my search-engine return poor results? The answer lies in the complexity of the query and choices made when implementing the search-engine.",
+      "link": "https://medium.com/@rahul.balakavi/why-does-my-search-engine-return-poor-results-31488a780ce7",
+      "ranks": {
+        "duckduckgo": 6
+      }
+    },
+    {
+      "url": "https://reputationx.com/blog/why-search-results-different",
+      "title": "Why Your Google Results Look Different from Everyone ...",
+      "snippet": "Search results vary from person to person due to five key factors: location, personalization, language, device type, and time. Search engines ...",
+      "link": "https://www.reputationx.com/blog/why-search-results-different",
+      "ranks": {
+        "google": 7
+      }
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/answers/questions/2348659/why-does-bing-constantly-give-me-results-for-thing",
+      "title": "Why does Bing constantly give me results for things I didn't search for ...",
+      "snippet": "Why does Bing constantly give me results for things I didn't search for? I needed a classic car part recently and searched for three specific words - the manufacturer, and the part name. The manufacturer's name is not a common word and would not be confused with any other item or brand. I could not be more specific about what I required.",
+      "link": "https://learn.microsoft.com/en-us/answers/questions/2348659/why-does-bing-constantly-give-me-results-for-thing",
+      "ranks": {
+        "duckduckgo": 7
+      }
+    }
+  ],
+  "How does the k-means clustering algorithm group similar data points?": [
+    {
+      "url": "https://ibm.com/think/topics/k-means-clustering",
+      "title": "What is k-means clustering?",
+      "snippet": "K-means groups together similar data points into clusters by minimizing the distance between data points in a cluster with their centroid or k ...",
+      "link": "https://www.ibm.com/think/topics/k-means-clustering",
+      "ranks": {
+        "google": 1,
+        "duckduckgo": 4
+      }
+    },
+    {
+      "url": "https://geeksforgeeks.org/machine-learning/k-means-clustering-introduction",
+      "title": "K means Clustering \u2013 Introduction",
+      "snippet": "K-Means Clustering groups similar data points into clusters without needing labeled data. It is used to uncover hidden patterns when the ...",
+      "link": "https://www.geeksforgeeks.org/machine-learning/k-means-clustering-introduction/",
+      "ranks": {
+        "google": 2,
+        "duckduckgo": 1
+      }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/K-means_clustering",
+      "title": "k-means clustering - Wikipedia",
+      "snippet": "Cluster analysis, a fundamental task in data mining and machine learning, involves grouping a set of data points into clusters based on their similarity. k -means clustering is a popular algorithm used for partitioning data into k clusters, where each cluster is represented by its centroid.",
+      "link": "https://en.wikipedia.org/wiki/K-means_clustering",
+      "ranks": {
+        "duckduckgo": 2
+      }
+    },
+    {
+      "url": "https://medium.com/towardsdev/machine-learning-algorithms-14-k-means-clustering-and-hierarchical-clustering-46acc005057d",
+      "title": "Machine Learning Algorithms(14) \u2014 K-Means Clustering ...",
+      "snippet": "This technique involves plotting data points and grouping them into clusters based on their similarities.",
+      "link": "https://medium.com/towardsdev/machine-learning-algorithms-14-k-means-clustering-and-hierarchical-clustering-46acc005057d",
+      "ranks": {
+        "google": 3
+      }
+    },
+    {
+      "url": "https://simplilearn.com/tutorials/machine-learning-tutorial/k-means-clustering-algorithm",
+      "title": "K-Means Clustering: Algorithm, Implementation, and Examples",
+      "snippet": "K-Means clustering groups unlabeled data by similarity using centroid-based clustering. This tutorial covers implementation steps and real-world applications.",
+      "link": "https://www.simplilearn.com/tutorials/machine-learning-tutorial/k-means-clustering-algorithm",
+      "ranks": {
+        "duckduckgo": 3
+      }
+    },
+    {
+      "url": "https://uc-r.github.io/kmeans_clustering",
+      "title": "K-means Cluster Analysis",
+      "snippet": "When we cluster observations, we want observations in the same group to be similar and observations in different groups to be dissimilar. classifies objects in ...",
+      "link": "https://uc-r.github.io/kmeans_clustering",
+      "ranks": {
+        "google": 4
+      }
+    },
+    {
+      "url": "https://facebook.com/groups/deep.learning.edu/posts/1141069319587933",
+      "title": "What are the key results of k-means clustering algorithm?",
+      "snippet": "The goal is to partition the data so that points within the same cluster are as similar as possible, while points in different clusters are as ...",
+      "link": "https://www.facebook.com/groups/deep.learning.edu/posts/1141069319587933/",
+      "ranks": {
+        "google": 5
+      }
+    },
+    {
+      "url": "https://geeksforgeeks.org/machine-learning/k-means-vs-k-means-clustering-algorithm",
+      "title": "K-Means vs K-Means++ Clustering Algorithm - GeeksforGeeks",
+      "snippet": "This article explores how both algorithms work, their advantages and limitations, and how K-Means++ addresses the shortcomings of K-Means to achieve better clustering results. Understanding K-Means Algorithm K-Means clusters similar data points by initially selecting a specific number of starting points, known as centroids, at random.",
+      "link": "https://www.geeksforgeeks.org/machine-learning/k-means-vs-k-means-clustering-algorithm/",
+      "ranks": {
+        "duckduckgo": 5
+      }
+    },
+    {
+      "url": "https://youtube.com/watch?v=4b5d3muPQmA",
+      "title": "StatQuest: K-means clustering",
+      "snippet": "K-means clustering is used in all kinds of situations and it's crazy simple. The R code is on the StatQuest GitHub: https://github.com/Sta.",
+      "link": "https://www.youtube.com/watch?v=4b5d3muPQmA",
+      "ranks": {
+        "google": 6
+      }
+    },
+    {
+      "url": "https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a",
+      "title": "K-means Clustering: Algorithm, Applications, Evaluation Methods, and ...",
+      "snippet": "Clustering is one of the most common exploratory data analysis technique used to get an...",
+      "link": "https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a/",
+      "ranks": {
+        "duckduckgo": 6
+      }
+    },
+    {
+      "url": "https://blogs.oracle.com/ai-and-datascience/introduction-to-k-means-clustering",
+      "title": "Introduction to K-means Clustering | ai-data-science",
+      "snippet": "The algorithm works iteratively to assign each data point to one of K groups based on the features that are provided. Data points are clustered ...",
+      "link": "https://blogs.oracle.com/ai-and-datascience/introduction-to-k-means-clustering",
+      "ranks": {
+        "google": 7
+      }
+    },
+    {
+      "url": "https://towardsdatascience.com/k-means-clustering-explained-4528df86a120",
+      "title": "K-Means Clustering - Explained | Towards Data Science",
+      "snippet": "Similarity of two points is determined by the distance between them. ... K-means clustering tries to minimize distances within a cluster and maximize the distance between different clusters. ... Scikit-learn provides many useful functions to create synthetic datasets which are very helpful for practicing machine learning algorithms.",
+      "link": "https://towardsdatascience.com/k-means-clustering-explained-4528df86a120/",
+      "ranks": {
+        "duckduckgo": 7
+      }
+    }
+  ],
+  "Why do exchange rates fluctuate between currencies?": [
+    {
+      "url": "https://expat.hsbc.com/international-banking/what-makes-exchange-rates-move",
+      "title": "Why Do Exchange Rates Change - HSBC Expat",
+      "snippet": "Exchange rates are constantly moving, based on supply and demand. Whether one currency is in higher demand than another, depends on the perceived value of ...",
+      "link": "https://www.expat.hsbc.com/international-banking/what-makes-exchange-rates-move/",
+      "ranks": {
+        "google": 1
+      }
+    },
+    {
+      "url": "https://investopedia.com/terms/e/exchangerate.asp",
+      "title": "Understanding Exchange Rates: Key Factors and Why ...",
+      "snippet": "Exchange rates fluctuate because of factors such as economic activity, foreign exchange market dynamics, and interest rates.",
+      "link": "https://www.investopedia.com/terms/e/exchangerate.asp",
+      "ranks": {
+        "google": 4,
+        "duckduckgo": 1
+      }
+    },
+    {
+      "url": "https://westernunion.com/blog/en/us/what-causes-exchange-rates-to-change",
+      "title": "Why do exchange rates fluctuate?",
+      "snippet": "A complex interplay of factors influences exchange rates, and they can fluctuate significantly over time as market conditions change.",
+      "link": "https://www.westernunion.com/blog/en/us/what-causes-exchange-rates-to-change/",
+      "ranks": {
+        "google": 2,
+        "duckduckgo": 5
+      }
+    },
+    {
+      "url": "https://remitly.com/blog/currencies/currencies-fluctuate",
+      "title": "Why Do Currencies Fluctuate? Understanding Exchange Rates | Remitly",
+      "snippet": "Discover why currencies fluctuate and the factors behind exchange rate changes. Our blog breaks down the complexities for a clearer understanding.",
+      "link": "https://www.remitly.com/blog/currencies/currencies-fluctuate/",
+      "ranks": {
+        "duckduckgo": 2
+      }
+    },
+    {
+      "url": "https://reddit.com/r/explainlikeimfive/comments/txe3si/eli5_why_do_money_exchange_rates_fluctuate",
+      "title": "ELI5: Why do money exchange rates fluctuate everyday?",
+      "snippet": "Why do the value of currencies change everyday?",
+      "link": "https://www.reddit.com/r/explainlikeimfive/comments/txe3si/eli5_why_do_money_exchange_rates_fluctuate/",
+      "ranks": {
+        "google": 3
+      }
+    },
+    {
+      "url": "https://voltcurrency.com/why-do-exchange-rates-fluctuate",
+      "title": "Why Do Exchange Rates Fluctuate? 9 Factors That Change Currency Values ...",
+      "snippet": "Learn why exchange rates fluctuate, what causes currencies to rise and fall, and how interest rates, inflation, and global events affect exchange values every day.",
+      "link": "https://voltcurrency.com/why-do-exchange-rates-fluctuate/",
+      "ranks": {
+        "duckduckgo": 3
+      }
+    },
+    {
+      "url": "https://investopedia.com/articles/forex/080613/effects-currency-fluctuations-economy.asp",
+      "title": "How Currency Fluctuations Impact Global Economies - Investopedia",
+      "snippet": "Explore the effects of currency fluctuations, their causes, and how they impact global economies and investment strategies.",
+      "link": "https://www.investopedia.com/articles/forex/080613/effects-currency-fluctuations-economy.asp",
+      "ranks": {
+        "duckduckgo": 4
+      }
+    },
+    {
+      "url": "https://rba.gov.au/education/resources/explainers/exchange-rates-and-their-measurement.html",
+      "title": "Exchange Rates and their Measurement | Explainer | Education",
+      "snippet": "In a floating regime, exchange rates are generally determined by the market forces of supply and demand for foreign exchange. For many years, floating exchange ...",
+      "link": "https://www.rba.gov.au/education/resources/explainers/exchange-rates-and-their-measurement.html",
+      "ranks": {
+        "google": 5
+      }
+    },
+    {
+      "url": "https://nber.org/reporter/2024number4/what-drives-fluctuations-exchange-rates-asset-market-perspective",
+      "title": "What Drives Fluctuations in Exchange Rates? An Asset ...",
+      "snippet": "First, foreign investors value dollars more if dollar investments pay out higher interest rates than abroad. This is the interest rate channel.",
+      "link": "https://www.nber.org/reporter/2024number4/what-drives-fluctuations-exchange-rates-asset-market-perspective",
+      "ranks": {
+        "google": 6
+      }
+    },
+    {
+      "url": "https://fxrateflow.com/blog/why-do-currencies-fluctuate",
+      "title": "Why Do Currencies Fluctuate? 7 Forces Explained - FxRateFlow",
+      "snippet": "Market Analysis Why Do Currencies Fluctuate? 7 Forces Explained Interest rates, inflation, trade balances, and sentiment move currencies daily. Understand the seven forces behind every exchange-rate change.",
+      "link": "https://fxrateflow.com/blog/why-do-currencies-fluctuate",
+      "ranks": {
+        "duckduckgo": 6
+      }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Exchange_rate",
+      "title": "Exchange rate",
+      "snippet": "A market-based exchange rate will change whenever the values of either of the two component currencies change. A currency becomes more valuable whenever demand ...",
+      "link": "https://en.wikipedia.org/wiki/Exchange_rate",
+      "ranks": {
+        "google": 7
+      }
+    },
+    {
+      "url": "https://fastercapital.com/content/Exchange-Rate-Fluctuations--Exchange-Rate-Fluctuations--The-Global-Impact-of-Percentage-Change.html",
+      "title": "Exchange Rate Fluctuations: Exchange Rate Fluctuations ... - FasterCapital",
+      "snippet": "Exchange Rate Fluctuations: Exchange Rate Fluctuations: The Global Impact of Percentage Change 2026 update summary Summary: exchange rate dynamics are a fundamental aspect of international finance and economics, influencing global trade, investment decisions, and economic policy. The exchange rate between two currencies is the price at which one currency can be exchanged for another. It is ...",
+      "link": "https://fastercapital.com/content/Exchange-Rate-Fluctuations--Exchange-Rate-Fluctuations--The-Global-Impact-of-Percentage-Change.html",
+      "ranks": {
+        "duckduckgo": 7
+      }
+    }
+  ],
+  "Devilman Crybaby": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Devilman_Crybaby",
+      "title": "Devilman Crybaby",
+      "snippet": "Devilman Crybaby is a 2018 Japanese original net animation (ONA) series based on Go Nagai's manga series Devilman. The web anime is directed by Masaaki ...",
+      "link": "https://en.wikipedia.org/wiki/Devilman_Crybaby",
+      "ranks": {
+        "google": 1,
+        "duckduckgo": 1
+      }
+    },
+    {
+      "url": "https://netflix.com/title/80174974",
+      "title": "Devilman Crybaby",
+      "snippet": "Devilman Crybaby. 2018; 10 Episodes; \u2068TV-MA\u2069; Anime. With demons reawakened and humanity in turmoil, a sensitive demon-boy is led into a brutal, degenerate war ...",
+      "link": "https://www.netflix.com/title/80174974",
+      "ranks": {
+        "google": 2,
+        "duckduckgo": 3
+      }
+    },
+    {
+      "url": "https://devilman.fandom.com/wiki/Devilman_Crybaby",
+      "title": "Devilman Crybaby",
+      "snippet": "Devilman Crybaby is also the first anime adaptation to feature the original manga ending, where humanity is destroyed and Ryo Asuka mourns Akira Fudo's death.",
+      "link": "https://devilman.fandom.com/wiki/Devilman_Crybaby",
+      "ranks": {
+        "google": 5,
+        "duckduckgo": 2
+      }
+    },
+    {
+      "url": "https://imdb.com/title/tt6660498",
+      "title": "Devilman: Crybaby (TV Mini Series 2018)",
+      "snippet": "Devilman Crybaby is packed with symbolism, scenes that are funny and real, the relationships are believable, the animation style works fantastically, while the ...",
+      "link": "https://www.imdb.com/title/tt6660498/",
+      "ranks": {
+        "google": 3,
+        "duckduckgo": 4
+      }
+    },
+    {
+      "url": "https://reddit.com/r/CharacterRant/comments/1c11puo/devilman_crybaby_is_a_pretentious_stupid_and",
+      "title": "Devilman Crybaby is a pretentious, stupid, and ...",
+      "snippet": "Confused About the Devilman Crybaby Ending \u00b7 r/DevilmanCrybaby. \u2022 6y ago. Spoiler. Confused About the Devilman Crybaby Ending. 30. 4. Tretinoin ...",
+      "link": "https://www.reddit.com/r/CharacterRant/comments/1c11puo/devilman_crybaby_is_a_pretentious_stupid_and/",
+      "ranks": {
+        "google": 4
+      }
+    },
+    {
+      "url": "https://devilman.fandom.com/wiki/Category:Devilman_Crybaby",
+      "title": "Category:Devilman Crybaby | Devilman Wiki | Fandom",
+      "snippet": "Demons (Crybaby) Category:Devilman Crybaby Episodes Donald John Trump Dr. Rainuma (Crybaby)",
+      "link": "https://devilman.fandom.com/wiki/Category:Devilman_Crybaby",
+      "ranks": {
+        "duckduckgo": 5
+      }
+    },
+    {
+      "url": "https://rottentomatoes.com/tv/devilman_crybaby",
+      "title": "Devilman Crybaby",
+      "snippet": "Discover reviews, ratings, and trailers for Devilman Crybaby on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+      "link": "https://www.rottentomatoes.com/tv/devilman_crybaby",
+      "ranks": {
+        "google": 6
+      }
+    },
+    {
+      "url": "https://polygon.com/devilman-crybaby-horror-anime-halloween-countdown",
+      "title": "Devilman Crybaby is a devastating horror story about the tragedy of ...",
+      "snippet": "Devilman Crybaby is a brutal anime that transforms the end of the world into a nightmare about what makes us human.",
+      "link": "https://www.polygon.com/devilman-crybaby-horror-anime-halloween-countdown/",
+      "ranks": {
+        "duckduckgo": 6
+      }
+    },
+    {
+      "url": "https://myanimelist.net/anime/35120/Devilman__Crybaby",
+      "title": "Devilman: Crybaby (ONA 2018)",
+      "snippet": "In a reckless attempt to save his best friend, Akira unwittingly merges with the devil Amon and becomes a Devilman, gaining the power to defeat the remaining ...",
+      "link": "https://myanimelist.net/anime/35120/Devilman__Crybaby",
+      "ranks": {
+        "google": 7
+      }
+    },
+    {
+      "url": "https://youtube.com/playlist?list=PLRk7c3MmsRI0ObOhePkcgqgsOW05HQBva",
+      "title": "Devilman: Crybaby Full Episodes - YouTube",
+      "snippet": "Devilman Crybaby | Multi-Audio Clip: Akira's New Vibe | Netflix Anime Netflix Anime 588K 5y ago 1:02:40",
+      "link": "https://www.youtube.com/playlist?list=PLRk7c3MmsRI0ObOhePkcgqgsOW05HQBva",
+      "ranks": {
+        "duckduckgo": 7
+      }
+    }
+  ]
+}
