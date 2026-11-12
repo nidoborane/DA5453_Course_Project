@@ -7,7 +7,7 @@ from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
 import numpy as np
 from features import *
 
-os.environ["SERPAPI_KEY"] = "6d3f95f74dcddf36ed0e08394a5faca1bc078d8cdabca41608faf677ae2261f4"
+os.environ["SERPAPI_KEY"] = "YOUR_API_KEY"
 client = serpapi.Client(api_key=os.environ["SERPAPI_KEY"])
 
 def search(engine, q, k=7):
